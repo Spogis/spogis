@@ -16,7 +16,7 @@ Feel free to dive into my profile and reach out. I'm always on the lookout for c
 
 ## Find Me Online
 
-- **LinkTree:** [https://linktr.ee/spogis](https://linktr.ee/spogis)
+- **LinkTree:** [https://linktr.ee/CascaGrossaSuprema](https://linktr.ee/CascaGrossaSuprema)
 - **YouTube:** [https://www.youtube.com/c/CascaGrossaSuprema](https://www.youtube.com/c/CascaGrossaSuprema)
 - **Instagram:** [https://instagram.com/cascagrossasuprema/](https://instagram.com/cascagrossasuprema/)
 
