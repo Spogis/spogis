@@ -2,6 +2,12 @@
 
 I'm thrilled to have you here on my GitHub! As a fervent advocate for Machine Learning and Data Science within the realm of Engineering, I've dedicated a significant portion of my career to researching and developing in this captivating area. My journey has been one of constant exploration, where I blend my technical acumen and expertise in numerical simulation to craft innovative solutions that address the nuanced challenges faced by today's industries.
 
+## It would be great to have your support in various ways:
+💷 **GitHub Sponsors:** [https://github.com/sponsors/Spogis/] (https://github.com/sponsors/Spogis/)
+🎥 **YouTube Member:** [https://www.youtube.com/c/CascaGrossaSuprema?sub_confirmation=1] (https://www.youtube.com/c/CascaGrossaSuprema?sub_confirmation=1)
+💶 **LivePix:** [https://livepix.gg/cascagrossasuprema](https://livepix.gg/cascagrossasuprema)
+
+
 ## About Me
 
 With a robust foundation as a researcher, my path has also meandered through the world of education, where I've honed my skills in imparting knowledge in a manner that's both clear and motivating. I hold the empowerment of upcoming professionals in high regard, aiming to equip them with the tools they need to navigate the future's technological and scientific landscapes.
