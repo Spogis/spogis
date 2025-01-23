@@ -4,7 +4,7 @@ I'm thrilled to have you here on my GitHub! As a fervent advocate for Machine Le
 
 ## It would be great to have your support in various ways:
 - 💷 **GitHub Sponsors:** (https://github.com/sponsors/Spogis/)
-- 🎥 **YouTube Member:** (https://www.youtube.com/c/CascaGrossaSuprema?sub_confirmation=1)
+- 🎥 **YouTube Member:** https://www.youtube.com/@AIforTechnology?sub_confirmation=1
 - 💶 **LivePix:** (https://livepix.gg/cascagrossasuprema)
 
 
@@ -22,8 +22,9 @@ Feel free to dive into my profile and reach out. I'm always on the lookout for c
 
 ## Find Me Online
 
-- **LinkTree:** [https://linktr.ee/CascaGrossaSuprema](https://linktr.ee/CascaGrossaSuprema)
-- **YouTube:** [https://www.youtube.com/c/CascaGrossaSuprema](https://www.youtube.com/c/CascaGrossaSuprema)
-- **Instagram:** [https://instagram.com/cascagrossasuprema/](https://instagram.com/cascagrossasuprema/)
+- **LinkTree:** https://linktr.ee/Ai4Tech
+- **YouTube:** https://www.youtube.com/@AIforTechnology?sub_confirmation=1
+- **Instagram:** https://instagram.com/ai4_tech
+- **LinkedIn:** https://www.linkedin.com/in/spogis/
 
 Let's make the future amazing, one project at a time. Thank you for stopping by!
