@@ -1,30 +1,112 @@
-# Hello and Welcome!
+# 🚀 Torne-se um Membro Titã Agora Mesmo!
 
-I'm thrilled to have you here on my GitHub! As a fervent advocate for Machine Learning and Data Science within the realm of Engineering, I've dedicated a significant portion of my career to researching and developing in this captivating area. My journey has been one of constant exploration, where I blend my technical acumen and expertise in numerical simulation to craft innovative solutions that address the nuanced challenges faced by today's industries.
+Clique no link abaixo para fazer parte do Clube de Membros Titãs no YouTube e desbloquear conteúdos técnicos exclusivos, aulas ao vivo e muito mais:
 
-## It would be great to have your support in various ways:
-- 💷 **GitHub Sponsors:** (https://github.com/sponsors/Spogis/)
-- 🎥 **YouTube Member:** https://www.youtube.com/@AIforTechnology?sub_confirmation=1
-- 💶 **LivePix:** (https://livepix.gg/cascagrossasuprema)
+👉 **[Seja Membro – Canal Nicolas Spogis](https://www.youtube.com/channel/UCqIQSppLB_USKKN-Y9Z-OTw/join)**
 
+---
 
-## About Me
+## ⚠️ Aviso Importante!
 
-With a robust foundation as a researcher, my path has also meandered through the world of education, where I've honed my skills in imparting knowledge in a manner that's both clear and motivating. I hold the empowerment of upcoming professionals in high regard, aiming to equip them with the tools they need to navigate the future's technological and scientific landscapes.
+Após se tornar um Membro Titã, **envie uma mensagem para mim no WhatsApp** para que eu possa te adicionar ao grupo exclusivo, liberar o acesso aos conteúdos e te dar boas-vindas!
 
-Innovation and entrepreneurship drive my endeavors. I possess a mindset that is open, creative, and endlessly curious, empowering me to transcend traditional boundaries and delve into uncharted territories. I'm a firm believer that progress is the offspring of knowledge, experimentation, and decisive action.
+✅ Use meu Linktree para encontrar o WhatsApp e outros canais de contato:  
+🔗 <https://linktr.ee/Ai4Tech>
 
-## Let's Connect!
+---
 
-I'm on a mission to collaborate with like-minded professionals who are passionate about harnessing Artificial Intelligence, Machine Learning, and Data Science to advance Engineering and devise groundbreaking solutions for complex issues. Together, we can forge a brighter, more intelligent future.
+# ❓ FAQ – Clube de Membros Titãs | Canal Nicolas Spogis
 
-Feel free to dive into my profile and reach out. I'm always on the lookout for challenging projects, collaborative ventures, and opportunities that inspire. Let's embark on this journey to create something extraordinary together!
+## 🔥 O que é o Clube de Membros Titãs?
+O Clube de Membros Titãs é uma comunidade exclusiva para quem deseja apoiar o canal e, ao mesmo tempo, ter acesso a conteúdos técnicos de altíssimo nível, com aulas práticas, simulações e códigos reais nas áreas de Engenharia, Machine Learning, Soft Sensors, DWSIM e muito mais.
 
-## Find Me Online
+---
 
-- **LinkTree:** https://linktr.ee/Ai4Tech
-- **YouTube:** https://www.youtube.com/@AIforTechnology?sub_confirmation=1
-- **Instagram:** https://instagram.com/ai4_tech
-- **LinkedIn:** https://www.linkedin.com/in/spogis/
+## 💡 Quais são os benefícios de ser um Membro Titã?
 
-Let's make the future amazing, one project at a time. Thank you for stopping by!
+Ao se tornar membro, você terá acesso imediato a:
+
+- 🎥 **Mais de 50 horas de vídeos exclusivos**, incluindo:
+  - Curso de **Machine Learning | Análise de Dados**
+  - Curso contínuo de **DWSIM com Python**, com novas aulas toda semana
+- 💾 **GitHub privado** com:
+  - Códigos completos
+  - Materiais das aulas
+  - Casos completos de simulação no DWSIM
+- 📂 **Material complementar** em PDF, planilhas e tutoriais
+- 🧪 **Desafios técnicos** com premiações
+- 💬 **Canal exclusivo no WhatsApp** para networking, dúvidas e discussões técnicas
+- ✅ **Prioridade nas respostas** de comentários e dúvidas pelo YouTube
+
+---
+
+## 💸 Quanto custa para ser membro?
+
+O valor da assinatura é **R$ 40,00 por mês**.
+
+Isso é menos do que uma pizza ou duas idas ao café por mês – e você recebe **acesso contínuo a conteúdo técnico de qualidade profissional**, com aplicações práticas e direto ao ponto!
+
+---
+
+## 📚 O conteúdo é indicado para quem?
+
+Ideal para:
+
+- Estudantes de Engenharia (Química, Mecânica, Controle, etc.)
+- Profissionais da indústria que trabalham com simulação e otimização
+- Pesquisadores que desejam aplicar IA em Processos
+- Engenheiros que querem aprender **Soft Sensors**, **DOE**, **Surrogate Models** e **Operações Unitárias**
+
+---
+
+## 📆 Com que frequência os conteúdos são postados?
+
+Temos **aulas ao vivo todas as terças-feiras**, das **19:00 às 20:00 (horário de Brasília)**, via **Google Meet**.
+
+O membro pode participar **ao vivo (síncrono)** ou assistir depois com tranquilidade **via YouTube (assíncrono)**.
+
+---
+
+## 📥 Posso baixar os materiais?
+
+Sim! Os membros têm acesso para baixar planilhas, códigos Python, arquivos do DWSIM, apresentações em PDF e muito mais!
+
+---
+
+## 🧩 Existe algum projeto colaborativo para os membros?
+
+Sim! Membros participam de projetos e desafios especiais.
+
+👉 **Exemplo real:** o **Desafio de Operações Unitárias com DWSIM e Python**, onde o vencedor recebeu um prêmio de **R$ 1000,00**.
+
+---
+
+## 🛑 Posso cancelar quando quiser?
+
+Sim. A assinatura é **mensal e sem fidelidade**. Você pode cancelar a qualquer momento diretamente pela sua conta do YouTube.
+
+---
+
+## 🧭 Como eu me torno membro?
+
+É simples! Clique no botão:
+
+👉 **[Seja Membro – Canal Nicolas Spogis](https://www.youtube.com/channel/UCqIQSppLB_USKKN-Y9Z-OTw/join)**
+
+e siga as instruções da plataforma. Em menos de 1 minuto você já faz parte da comunidade dos **Titãs Casca Grossa**.
+
+---
+
+## 📬 Contato
+
+Se você tem dúvidas ou sugestões, não hesite em nos contatar. Estamos sempre abertos a novas ideias e feedbacks para melhorar.  
+**Juntos, podemos ultrapassar os limites do convencional e explorar novas fronteiras na tecnologia e na análise de dados.**
+
+📧 Nicolas Spogis  
+<nicolas.spogis@gmail.com>  
+🔗 <https://linktr.ee/Ai4Tech>
+
+---
+
+Um forte abraço e nos vemos nesta nova jornada!  
+**Nicolas Spogis**
