@@ -1,4 +1,4 @@
-# 🚀 Apoiadores Oficiais do Projeto AI4Tech
+# 🚀 Apoiadores Oficiais do Canal Titãs CascaGrossaSuprema
 
 **Legendas de apoio:**
 
