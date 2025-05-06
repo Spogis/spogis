@@ -1,4 +1,4 @@
-📅 Lista gerada automaticamente em: 06/05/2025
+# 🚀 Apoiadores Oficiais do Projeto AI4Tech
 
 **Legendas de apoio:**
 
@@ -13,7 +13,7 @@
 
 ---
 
-📢 **Apoiadores do Projeto:**
+📢 **Apoiadores do Projeto:** - 📅 Lista gerada automaticamente em: 06/05/2025
 
 💎 Daniel Wagner Oliveira de Medeiros, 💎 Fernando Miguel de Amorim Lino , 🚀 Fernando Fernandes Vieira , 🚀 Gabriel Luciano Borges de Carvalho, 🥇 Alfredo Vitali, 🥇 Christian Girardi Jerusalmi, 🥇 Diocleciano Januário, 🥇 Izabela Mendes Alves , 🥇 Matheus Langendorf, 🥇 Rubens Henrique L. de Oliveira, 🥇 William Costa e Silva, 🥈 Alisson Martins Silva, 🥈 Ana Luísa Gonçalves Coelho, 🥈 Bruno Marcelo Corbalán Da Mota, 🥈 Carlos Alexandre Moreira da Silva, 🥈 Cláudia Ferreira da Silva Lirio, 🥈 Diener Volpin Ribeiro Fontoura , 🥈 Dyenny Ellen Lima Lhamas , 🥈 Eron Paulo Borges Filho, 🥈 Fabiano Bisinella Scheufele, 🥈 Gustavo Roncari da Silva, 🥈 Hugo Valença, 🥈 Isabela Dalmolin Battistella, 🥈 João Paulo Silva Santos, 🥈 Julio Cesar do Carmo, 🥈 Kauê Scaranari Alcantara, 🥈 Leandro Favaretto, 🥈 Luis Gustavo Assunção Carneiro, 🥈 Marcos Guimarães Duarte Dias, 🥈 Marcos Paulo Felizardo , 🥈 Nicholas Islongo Canabarro, 🥈 Pedro Yahico Ramos Suzaki, 🥈 Raniere Pereira de Paula, 🥈 Rayan Lima Fernandes, 🥈 Vinícius Duarte Arrigoni , 🌟 Andy Avimael Saavedra Mendoza, 🌟 Filipe de Souza Pereira, 🌟 Isaias Surgek De Almeida , 🌟 Moysés Naves de Moraes, 🌟 Nathan Alves de Oliveira Framba, 🔹 Charles Dayan, 🔹 Diego Arturo Chavez Lazarte, 🔹 Elton Pereira de Alencar, 🔹 Fiama Cristina dos Reis, 🔹 Frankhil Contreras Salgado, 🔹 Frederico Augusto Montandon Lima, 🔹 Gabriel Henrique de Almeida , 🔹 João Manoel Folador Rodriguez, 🔹 Leví Pereira Quissola, 🔹 Luciano Xavier Mezzomo, 🔹 Luellen Pereira Rocha, 🔹 Luiz Augusto da Cruz Meleiro, 🔹 Marcelo Dahan Gomes da Silva, 🔹 Mateus de Andrade Vasconcelos, 🔹 Rodrigo César Raimundo, 🔹 Rodrigo da Silva Bondezan, 🔹 Sônia Kesserlingh, 🔹 Thiago da Silva Oliveira
 
