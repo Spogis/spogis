@@ -7,9 +7,9 @@
 - 🥇 Ouro (12+ meses) — 13 membros
 - 🥈 Prata (9+ meses) — 15 membros
 - 🌟 Apoiador (6+ meses) — 5 membros
-- 🔹 Novo apoiador — 28 membros
+- 🔹 Novo apoiador — 29 membros
 
-**Total de apoiadores: 65**
+**Total de apoiadores: 66**
 
 ---
 
@@ -21,9 +21,9 @@ Clique no link abaixo para fazer parte do Clube de Membros Titãs no YouTube e d
 
 ---
 
-📢 **Apoiadores do Projeto:** - 📅 Lista gerada automaticamente em: 31/05/2025
+📢 **Apoiadores do Projeto:** - 📅 Lista gerada automaticamente em: 01/06/2025
 
-💎 Daniel Wagner Oliveira de Medeiros, 💎 Fernando Miguel de Amorim Lino, 🚀 Fernando Fernandes Vieira , 🚀 Gabriel Luciano Borges de Carvalho, 🥇 Diocleciano Januário, 🥇 Eron Paulo Borges Filho, 🥇 Gustavo Roncari da Silva, 🥇 Isabela Dalmolin Battistella, 🥇 Izabela Mendes Alves, 🥇 Julio Cesar do Carmo, 🥇 Marcos Guimarães Duarte Dias, 🥇 Marcos Paulo Felizardo, 🥇 Matheus Langendorf, 🥇 Pedro Yahico Ramos Suzaki, 🥇 Raniere Pereira de Paula, 🥇 Rubens Henrique L. de Oliveira, 🥇 William Costa e Silva, 🥈 Alisson Martins Silva, 🥈 Ana Luísa Gonçalves Coelho, 🥈 Bruno Marcelo Corbalán Da Mota, 🥈 Carlos Alexandre Moreira da Silva, 🥈 Cláudia Ferreira da Silva Lirio, 🥈 Diener Volpin Ribeiro Fontoura, 🥈 Dyenny Ellen Lima Lhamas , 🥈 Fabiano Bisinella Scheufele, 🥈 Hugo Valença, 🥈 Leandro Favaretto, 🥈 Luis Gustavo Assunção Carneiro, 🥈 Nicholas Islongo Canabarro, 🥈 Pablo Jimenez Salces, 🥈 Rayan Lima Fernandes, 🥈 Vinícius Duarte Arrigoni, 🌟 Andy Avimael Saavedra Mendoza, 🌟 Filipe de Souza Pereira, 🌟 Isaias Surgek De Almeida , 🌟 Moysés Naves de Moraes, 🌟 Nathan Alves de Oliveira Framba, 🔹 Alfredo Vitali, 🔹 Antônio Possidônio de Mendonça Junior, 🔹 Aparicio Jorge Bezerra Lopes, 🔹 Cesar Augusto Valenzuela Caero, 🔹 Charles Dayan, 🔹 Diego Arturo Chavez Lazarte, 🔹 Ediane Sa Alves, 🔹 Elton Pereira de Alencar, 🔹 Fiama Cristina dos Reis, 🔹 Frankhil Contreras Salgado, 🔹 Frederico Augusto Montandon Lima, 🔹 Gabriel Henrique de Almeida , 🔹 HD-Filmagens, 🔹 João Manoel Folador Rodriguez, 🔹 Lucas Fernando Militão Moura, 🔹 Luciano Xavier Mezzomo, 🔹 Luellen Pereira Rocha, 🔹 Luiz Augusto da Cruz Meleiro, 🔹 Marcelo Dahan Gomes da Silva, 🔹 Marcos Vinícius Aquino Lopes, 🔹 Maria Luana de Sousa Braga, 🔹 Mateus de Andrade Vasconcelos, 🔹 Nathalia Wisniewski Siqueira, 🔹 Natã Marcon Carniel, 🔹 Rodrigo César Raimundo, 🔹 Rodrigo da Silva Bondezan, 🔹 Sônia Kesserlingh, 🔹 Thiago da Silva Oliveira
+💎 Daniel Wagner Oliveira de Medeiros, 💎 Fernando Miguel de Amorim Lino, 🚀 Fernando Fernandes Vieira , 🚀 Gabriel Luciano Borges de Carvalho, 🥇 Diocleciano Januário, 🥇 Eron Paulo Borges Filho, 🥇 Gustavo Roncari da Silva, 🥇 Isabela Dalmolin Battistella, 🥇 Izabela Mendes Alves, 🥇 Julio Cesar do Carmo, 🥇 Marcos Guimarães Duarte Dias, 🥇 Marcos Paulo Felizardo, 🥇 Matheus Langendorf, 🥇 Pedro Yahico Ramos Suzaki, 🥇 Raniere Pereira de Paula, 🥇 Rubens Henrique L. de Oliveira, 🥇 William Costa e Silva, 🥈 Alisson Martins Silva, 🥈 Ana Luísa Gonçalves Coelho, 🥈 Bruno Marcelo Corbalán Da Mota, 🥈 Carlos Alexandre Moreira da Silva, 🥈 Cláudia Ferreira da Silva Lirio, 🥈 Diener Volpin Ribeiro Fontoura, 🥈 Dyenny Ellen Lima Lhamas , 🥈 Fabiano Bisinella Scheufele, 🥈 Hugo Valença, 🥈 Leandro Favaretto, 🥈 Luis Gustavo Assunção Carneiro, 🥈 Nicholas Islongo Canabarro, 🥈 Pablo Jimenez Salces, 🥈 Rayan Lima Fernandes, 🥈 Vinícius Duarte Arrigoni, 🌟 Andy Avimael Saavedra Mendoza, 🌟 Filipe de Souza Pereira, 🌟 Isaias Surgek De Almeida , 🌟 Moysés Naves de Moraes, 🌟 Nathan Alves de Oliveira Framba, 🔹 Alfredo Vitali, 🔹 Antônio Possidônio de Mendonça Junior, 🔹 Aparicio Jorge Bezerra Lopes, 🔹 Cesar Augusto Valenzuela Caero, 🔹 Charles Dayan, 🔹 Diego Arturo Chavez Lazarte, 🔹 Ediane Sa Alves, 🔹 Elton Pereira de Alencar, 🔹 Fiama Cristina dos Reis, 🔹 Frankhil Contreras Salgado, 🔹 Frederico Augusto Montandon Lima, 🔹 Gabriel Henrique de Almeida , 🔹 HD-Filmagens, 🔹 João Manoel Folador Rodriguez, 🔹 Leví Pereira Quissola, 🔹 Lucas Fernando Militão Moura, 🔹 Luciano Xavier Mezzomo, 🔹 Luellen Pereira Rocha, 🔹 Luiz Augusto da Cruz Meleiro, 🔹 Marcelo Dahan Gomes da Silva, 🔹 Marcos Vinícius Aquino Lopes, 🔹 Maria Luana de Sousa Braga, 🔹 Mateus de Andrade Vasconcelos, 🔹 Nathalia Wisniewski Siqueira, 🔹 Natã Marcon Carniel, 🔹 Rodrigo César Raimundo, 🔹 Rodrigo da Silva Bondezan, 🔹 Sônia Kesserlingh, 🔹 Thiago da Silva Oliveira
 
 ---
 
