@@ -4,12 +4,12 @@
 
 - 💎 Elite (36+ meses) — 2 membros
 - 🚀 Super Longevity (24+ meses) — 2 membros
-- 🥇 Ouro (12+ meses) — 15 membros
-- 🥈 Prata (9+ meses) — 13 membros
+- 🥇 Ouro (12+ meses) — 19 membros
+- 🥈 Prata (9+ meses) — 9 membros
 - 🌟 Apoiador (6+ meses) — 5 membros
-- 🔹 Novo apoiador — 30 membros
+- 🔹 Novo apoiador — 29 membros
 
-**Total de apoiadores: 67**
+**Total de apoiadores: 66**
 
 ---
 
@@ -21,9 +21,9 @@ Clique no link abaixo para fazer parte do Clube de Membros Titãs no YouTube e d
 
 ---
 
-📢 **Apoiadores do Projeto:** - 📅 Lista gerada automaticamente em: 04/06/2025
+📢 **Apoiadores do Projeto:** - 📅 Lista gerada automaticamente em: 09/06/2025
 
-💎 Daniel Wagner Oliveira de Medeiros, 💎 Fernando Miguel de Amorim Lino, 🚀 Fernando Fernandes Vieira , 🚀 Gabriel Luciano Borges de Carvalho, 🥇 Diocleciano Januário, 🥇 Eron Paulo Borges Filho, 🥇 Fabiano Bisinella Scheufele, 🥇 Gustavo Roncari da Silva, 🥇 Isabela Dalmolin Battistella, 🥇 Izabela Mendes Alves, 🥇 Julio Cesar do Carmo, 🥇 Marcos Guimarães Duarte Dias, 🥇 Marcos Paulo Felizardo, 🥇 Matheus Langendorf, 🥇 Nicholas Islongo Canabarro, 🥇 Pedro Yahico Ramos Suzaki, 🥇 Raniere Pereira de Paula, 🥇 Rubens Henrique L. de Oliveira, 🥇 William Costa e Silva, 🥈 Alisson Martins Silva, 🥈 Ana Luísa Gonçalves Coelho, 🥈 Bruno Marcelo Corbalán Da Mota, 🥈 Carlos Alexandre Moreira da Silva, 🥈 Cláudia Ferreira da Silva Lirio, 🥈 Diener Volpin Ribeiro Fontoura, 🥈 Dyenny Ellen Lima Lhamas , 🥈 Hugo Valença, 🥈 Leandro Favaretto, 🥈 Luis Gustavo Assunção Carneiro, 🥈 Pablo Jimenez Salces, 🥈 Rayan Lima Fernandes, 🥈 Vinícius Duarte Arrigoni, 🌟 Andy Avimael Saavedra Mendoza, 🌟 Filipe de Souza Pereira, 🌟 Isaias Surgek De Almeida , 🌟 Moysés Naves de Moraes, 🌟 Nathan Alves de Oliveira Framba, 🔹 Alfredo Vitali, 🔹 Antônio Possidônio de Mendonça Junior, 🔹 Aparicio Jorge Bezerra Lopes, 🔹 Cesar Augusto Valenzuela Caero, 🔹 Charles Dayan, 🔹 Diego Arturo Chavez Lazarte, 🔹 Ediane Sa Alves, 🔹 Elton Pereira de Alencar, 🔹 Fiama Cristina dos Reis, 🔹 Frankhil Contreras Salgado, 🔹 Frederico Augusto Montandon Lima, 🔹 Gabriel Henrique de Almeida , 🔹 Hubertt Kenned Elias Jr, 🔹 João Manoel Folador Rodriguez, 🔹 Leví Pereira Quissola, 🔹 Leví Pereira Quissola, 🔹 Lucas Fernando Militão Moura, 🔹 Luciano Xavier Mezzomo, 🔹 Luellen Pereira Rocha, 🔹 Luiz Augusto da Cruz Meleiro, 🔹 Marcelo Dahan Gomes da Silva, 🔹 Marcos Vinícius Aquino Lopes, 🔹 Maria Luana de Sousa Braga, 🔹 Mateus de Andrade Vasconcelos, 🔹 Nathalia Wisniewski Siqueira, 🔹 Natã Marcon Carniel, 🔹 Rodrigo César Raimundo, 🔹 Rodrigo da Silva Bondezan, 🔹 Sônia Kesserlingh, 🔹 Thiago da Silva Oliveira
+💎 Daniel Wagner Oliveira de Medeiros, 💎 Fernando Miguel de Amorim Lino, 🚀 Fernando Fernandes Vieira , 🚀 Gabriel Luciano Borges de Carvalho, 🥇 Alisson Martins Silva, 🥇 Cláudia Ferreira da Silva Lirio, 🥇 Diocleciano Januário, 🥇 Eron Paulo Borges Filho, 🥇 Fabiano Bisinella Scheufele, 🥇 Gustavo Roncari da Silva, 🥇 Isabela Dalmolin Battistella, 🥇 Izabela Mendes Alves, 🥇 Julio Cesar do Carmo, 🥇 Leandro Favaretto, 🥇 Luis Gustavo Assunção Carneiro, 🥇 Marcos Guimarães Duarte Dias, 🥇 Marcos Paulo Felizardo, 🥇 Matheus Langendorf, 🥇 Nicholas Islongo Canabarro, 🥇 Pedro Yahico Ramos Suzaki, 🥇 Raniere Pereira de Paula, 🥇 Rubens Henrique L. de Oliveira, 🥇 William Costa e Silva, 🥈 Ana Luísa Gonçalves Coelho, 🥈 Bruno Marcelo Corbalán Da Mota, 🥈 Carlos Alexandre Moreira da Silva, 🥈 Diener Volpin Ribeiro Fontoura, 🥈 Dyenny Ellen Lima Lhamas , 🥈 Hugo Valença, 🥈 Pablo Jimenez Salces, 🥈 Rayan Lima Fernandes, 🥈 Vinícius Duarte Arrigoni, 🌟 Andy Avimael Saavedra Mendoza, 🌟 Filipe de Souza Pereira, 🌟 Isaias Surgek De Almeida , 🌟 Moysés Naves de Moraes, 🌟 Nathan Alves de Oliveira Framba, 🔹 Alfredo Vitali, 🔹 Antônio Possidônio de Mendonça Junior, 🔹 Aparicio Jorge Bezerra Lopes, 🔹 Cesar Augusto Valenzuela Caero, 🔹 Charles Dayan, 🔹 Diego Arturo Chavez Lazarte, 🔹 Ediane Sa Alves, 🔹 Elton Pereira de Alencar, 🔹 Fiama Cristina dos Reis, 🔹 Frankhil Contreras Salgado, 🔹 Frederico Augusto Montandon Lima, 🔹 Hubertt Kenned Elias Jr, 🔹 João Manoel Folador Rodriguez, 🔹 Leví Pereira Quissola, 🔹 Leví Pereira Quissola, 🔹 Lucas Fernando Militão Moura, 🔹 Luciano Xavier Mezzomo, 🔹 Luellen Pereira Rocha, 🔹 Luiz Augusto da Cruz Meleiro, 🔹 Marcelo Dahan Gomes da Silva, 🔹 Marcos Vinícius Aquino Lopes, 🔹 Maria Luana de Sousa Braga, 🔹 Mateus de Andrade Vasconcelos, 🔹 Nathalia Wisniewski Siqueira, 🔹 Natã Marcon Carniel, 🔹 Rodrigo César Raimundo, 🔹 Rodrigo da Silva Bondezan, 🔹 Sônia Kesserlingh, 🔹 Thiago da Silva Oliveira
 
 ---
 
