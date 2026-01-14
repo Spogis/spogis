@@ -3,13 +3,13 @@
 **Legendas de apoio:**
 
 - 💎 Elite (36+ meses) — 2 membros
-- 🚀 Super Longevity (24+ meses) — 3 membros
+- 🚀 Super Longevity (24+ meses) — 4 membros
 - 🥇 Ouro (12+ meses) — 25 membros
 - 🥈 Prata (9+ meses) — 7 membros
-- 🌟 Apoiador (6+ meses) — 14 membros
-- 🔹 Novo apoiador — 22 membros
+- 🌟 Apoiador (6+ meses) — 18 membros
+- 🔹 Novo apoiador — 23 membros
 
-**Total de apoiadores: 73**
+**Total de apoiadores: 79**
 
 ---
 
@@ -21,9 +21,9 @@ Clique no link abaixo para fazer parte do Clube de Membros Titãs no YouTube e d
 
 ---
 
-📢 **Apoiadores do Projeto:** - 📅 Lista gerada automaticamente em: 11/12/2025
+📢 **Apoiadores do Projeto:** - 📅 Lista gerada automaticamente em: 14/01/2026
 
-💎 Daniel Wagner Oliveira de Medeiros, 💎 Fernando Miguel de Amorim Lino, 🚀 Fernando Fernandes Vieira , 🚀 Gabriel Luciano Borges de Carvalho, 🚀 Izabela Mendes Alves, 🥇 Andy Avimael Saavedra Mendoza, 🥇 Bruno Marcelo Corbalán Da Mota, 🥇 Carlos Alexandre Moreira da Silva, 🥇 Cláudia Ferreira da Silva Lirio, 🥇 Diener Volpin Ribeiro Fontoura, 🥇 Diocleciano Januário, 🥇 Dyenny Ellen Lima Lhamas , 🥇 Eron Paulo Borges Filho, 🥇 Fabiano Bisinella Scheufele, 🥇 Gustavo Roncari da Silva, 🥇 Hugo Valença, 🥇 Isabela Dalmolin Battistella, 🥇 Isaias Surgek De Almeida , 🥇 Luis Gustavo Assunção Carneiro, 🥇 Marcos Guimarães Duarte Dias, 🥇 Matheus Langendorf, 🥇 Moysés Naves de Moraes, 🥇 Nathan Alves de Oliveira Framba, 🥇 Nicholas Islongo Canabarro, 🥇 Pablo Jimenez Salces, 🥇 Raniere Pereira de Paula, 🥇 Rayan Lima Fernandes, 🥇 Rubens Henrique L. de Oliveira, 🥇 Vinícius Duarte Arrigoni, 🥇 William Costa e Silva, 🥈 Gabriel Hernandez Rozo, 🥈 Igor de Paula Nascimento Lima, 🥈 João Manoel Folador Rodriguez, 🥈 Leví Pereira Quissola, 🥈 Marcos Vinícius Aquino Lopes, 🥈 Maria Luana de Sousa Braga, 🥈 Rodrigo da Silva Bondezan, 🌟 Alfredo Vitali, 🌟 Charles Dayan Farias de Jesus, 🌟 Ediane Sa Alves, 🌟 Fiama Cristina dos Reis, 🌟 Frankhil Contreras Salgado, 🌟 Hubertt Kenned Elias Jr, 🌟 Lucas Fernando Militão Moura, 🌟 Luellen Pereira Rocha, 🌟 Luiz Augusto da Cruz Meleiro, 🌟 Marcelo Dahan Gomes da Silva, 🌟 Mateus de Andrade Vasconcelos, 🌟 Nathalia Wisniewski Siqueira, 🌟 Sônia Kesserlingh, 🌟 Thiago da Silva Oliveira, 🔹 Anderson Luiz Pereira, 🔹 Antônio Possidônio de Mendonça Junior, 🔹 Carlos Rodrigues Paiva, 🔹 Diego dos Santos Simão, 🔹 Diego dos Santos Simão, 🔹 Franco Sciolla Ferrari, 🔹 Gustavo dos Santos Cunha, 🔹 Henrique Carqueja, 🔹 José Antônio Marques , 🔹 João Lucas Lins Bomfim, 🔹 João Rui Barbosa de Alencar, 🔹 Leonardo Rodrigues, 🔹 Lucas Aguiar Mendes, 🔹 Lucas Rigolo Ortiz de Camargo , 🔹 Luiz Guilherme Roquette Lopreato, 🔹 Magnus Costa Miranda, 🔹 Márcio Justino de Melo, 🔹 Philipe Vasconcellos da Silva, 🔹 Rodrigo César Raimundo, 🔹 Thiago Francisco Ferreira, 🔹 Tiago Domingues Figueiredo, 🔹 Ícaro Vinícius de Souza Juvenal
+💎 Daniel Wagner Oliveira de Medeiros, 💎 Fernando Miguel de Amorim Lino, 🚀 Fernando Fernandes Vieira , 🚀 Gabriel Luciano Borges de Carvalho, 🚀 Izabela Mendes Alves, 🚀 Matheus Langendorf, 🥇 Andy Avimael Saavedra Mendoza, 🥇 Bruno Marcelo Corbalán Da Mota, 🥇 Carlos Alexandre Moreira da Silva, 🥇 Cláudia Ferreira da Silva Lirio, 🥇 Diener Volpin Ribeiro Fontoura, 🥇 Diocleciano Januário, 🥇 Dyenny Ellen Lima Lhamas , 🥇 Eron Paulo Borges Filho, 🥇 Fabiano Bisinella Scheufele, 🥇 Gustavo Roncari da Silva, 🥇 Hugo Valença, 🥇 Isabela Dalmolin Battistella, 🥇 Isaias Surgek De Almeida , 🥇 Luis Gustavo Assunção Carneiro, 🥇 Marcos Guimarães Duarte Dias, 🥇 Marcos Vinícius Aquino Lopes, 🥇 Moysés Naves de Moraes, 🥇 Nathan Alves de Oliveira Framba, 🥇 Nicholas Islongo Canabarro, 🥇 Pablo Jimenez Salces, 🥇 Raniere Pereira de Paula, 🥇 Rayan Lima Fernandes, 🥇 Rubens Henrique L. de Oliveira, 🥇 Vinícius Duarte Arrigoni, 🥇 William Costa e Silva, 🥈 Charles Dayan Farias de Jesus, 🥈 Gabriel Hernandez Rozo, 🥈 João Manoel Folador Rodriguez, 🥈 Leví Pereira Quissola, 🥈 Maria Luana de Sousa Braga, 🥈 Rodrigo da Silva Bondezan, 🥈 Thiago da Silva Oliveira, 🌟 Alfredo Vitali, 🌟 Antônio Possidônio de Mendonça Junior, 🌟 Carlos Rodrigues Paiva, 🌟 Diego dos Santos Simão, 🌟 Ediane Sa Alves, 🌟 Fiama Cristina dos Reis, 🌟 Frankhil Contreras Salgado, 🌟 Henrique Carqueja, 🌟 Hubertt Kenned Elias Jr, 🌟 Luellen Pereira Rocha, 🌟 Luiz Augusto da Cruz Meleiro, 🌟 Luiz Guilherme Roquette Lopreato, 🌟 Marcelo Dahan Gomes da Silva, 🌟 Mateus de Andrade Vasconcelos, 🌟 Nathalia Wisniewski Siqueira, 🌟 Philipe Vasconcellos da Silva, 🌟 Rodrigo César Raimundo, 🌟 Sônia Kesserlingh, 🔹 Anderson Luiz Pereira, 🔹 Ariel Toledo Goulart de Assis, 🔹 Daniel Rodrigues de Oliveira da Costa, 🔹 Daniele Farias Rodrigues , 🔹 Diego dos Santos Simão, 🔹 Fernando Barbosa de Sousa Nogueira, 🔹 Franco Sciolla Ferrari, 🔹 Gustavo dos Santos Cunha, 🔹 José Antônio Marques , 🔹 João Lucas Lins Bomfim, 🔹 João Paulo Martins Laudares dos Santos, 🔹 João Rui Barbosa de Alencar, 🔹 Julio Pansiere Zavarise, 🔹 Leonardo Rodrigues, 🔹 Lucas Aguiar Mendes, 🔹 Lucas Rigolo Ortiz de Camargo , 🔹 Magnus Costa Miranda, 🔹 Márcio Justino de Melo, 🔹 Pedro Monteiro de Oliveira, 🔹 Thiago Francisco Ferreira, 🔹 Tiago Domingues Figueiredo, 🔹 Tiago Silva Marques, 🔹 Ícaro Vinícius de Souza Juvenal
 
 ---
 
