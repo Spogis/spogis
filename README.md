@@ -2,10 +2,10 @@
 
 # 🏆 Apoiadores Oficiais — Titãs Casca Grossa Suprema
 
-[![Membros](https://img.shields.io/badge/Membros_Ativos-78-22c55e?style=for-the-badge)]()
-[![Bolsistas](https://img.shields.io/badge/Bolsistas-2-f97316?style=for-the-badge)]()
-[![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)]()
-[![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)]()
+![Membros](https://img.shields.io/badge/Membros_Ativos-78-22c55e?style=for-the-badge)
+![Bolsistas](https://img.shields.io/badge/Bolsistas-2-f97316?style=for-the-badge)
+![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)
+![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)
 
 **Comunidade de Engenharia, Machine Learning, Soft Sensors, DWSIM e muito mais!**
 
