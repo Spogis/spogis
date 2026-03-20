@@ -1,118 +1,120 @@
-# 🚀 Apoiadores Oficiais do Canal Titãs CascaGrossaSuprema
+<div align="center">
 
-**Legendas de apoio:**
+# 🏆 Apoiadores Oficiais — Titãs Casca Grossa Suprema
 
-- 💎 Elite (36+ meses) — 4 membros
-- 🚀 Super Longevity (24+ meses) — 2 membros
-- 🥇 Ouro (12+ meses) — 25 membros
-- 🥈 Prata (9+ meses) — 13 membros
-- 🌟 Apoiador (6+ meses) — 11 membros
-- 🔹 Novo apoiador — 24 membros
+[![Membros](https://img.shields.io/badge/Membros_Ativos-78-22c55e?style=for-the-badge)]()
+[![Bolsistas](https://img.shields.io/badge/Bolsistas-2-f97316?style=for-the-badge)]()
+[![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)]()
+[![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)]()
 
-**Total de apoiadores: 79**
+**Comunidade de Engenharia, Machine Learning, Soft Sensors, DWSIM e muito mais!**
 
 ---
 
-# 🚀 Torne-se um Membro Titã Agora Mesmo!
+### 🚀 Quer fazer parte? Leva menos de 1 minuto!
 
-Clique no link abaixo para fazer parte do Clube de Membros Titãs no YouTube e desbloquear conteúdos técnicos exclusivos, aulas ao vivo e muito mais:
+[![Seja Membro](https://img.shields.io/badge/🎬_SEJA_MEMBRO_AGORA-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqIQSppLB_USKKN-Y9Z-OTw/join)
 
-👉 **[CLIQUE e Seja Membro – Canal Nicolas Spogis](https://www.youtube.com/channel/UCqIQSppLB_USKKN-Y9Z-OTw/join)**
+> Após se tornar membro, **envie uma mensagem no WhatsApp** para liberar acesso ao grupo exclusivo e conteúdos!
+> 🔗 [linktr.ee/Ai4Tech](https://linktr.ee/Ai4Tech)
 
----
-
-📢 **Apoiadores do Projeto:** - 📅 Lista gerada automaticamente em: 03/02/2026
-
-💎 Daniel Wagner Oliveira de Medeiros, 💎 Fernando Fernandes Vieira , 💎 Fernando Miguel de Amorim Lino, 💎 Gabriel Luciano Borges de Carvalho, 🚀 Izabela Mendes Alves, 🚀 Matheus Langendorf, 🥇 Andy Avimael Saavedra Mendoza, 🥇 Bruno Marcelo Corbalán Da Mota, 🥇 Carlos Alexandre Moreira da Silva, 🥇 Cláudia Ferreira da Silva Lirio, 🥇 Diener Volpin Ribeiro Fontoura, 🥇 Diocleciano Januário, 🥇 Dyenny Ellen Lima Lhamas , 🥇 Eron Paulo Borges Filho, 🥇 Fabiano Bisinella Scheufele, 🥇 Gustavo Roncari da Silva, 🥇 Hugo Valença, 🥇 Isabela Dalmolin Battistella, 🥇 Isaias Surgek De Almeida , 🥇 Luis Gustavo Assunção Carneiro, 🥇 Marcos Guimarães Duarte Dias, 🥇 Marcos Vinícius Aquino Lopes, 🥇 Moysés Naves de Moraes, 🥇 Nathan Alves de Oliveira Framba, 🥇 Nicholas Islongo Canabarro, 🥇 Pablo Jimenez Salces, 🥇 Raniere Pereira de Paula, 🥇 Rayan Lima Fernandes, 🥇 Rubens Henrique L. de Oliveira, 🥇 Vinícius Duarte Arrigoni, 🥇 William Costa e Silva, 🥈 Alfredo Vitali, 🥈 Charles Dayan Farias de Jesus, 🥈 Fiama Cristina dos Reis, 🥈 Frankhil Contreras Salgado, 🥈 Gabriel Hernandez Rozo, 🥈 João Manoel Folador Rodriguez, 🥈 Leví Pereira Quissola, 🥈 Luiz Augusto da Cruz Meleiro, 🥈 Marcelo Dahan Gomes da Silva, 🥈 Mateus de Andrade Vasconcelos, 🥈 Rodrigo da Silva Bondezan, 🥈 Sônia Kesserlingh, 🥈 Thiago da Silva Oliveira, 🌟 Antônio Possidônio de Mendonça Junior, 🌟 Carlos Rodrigues Paiva, 🌟 Diego dos Santos Simão, 🌟 Ediane Sa Alves, 🌟 Henrique Carqueja, 🌟 Hubertt Kenned Elias Jr, 🌟 Luellen Pereira Rocha, 🌟 Luiz Guilherme Roquette Lopreato, 🌟 Nathalia Wisniewski Siqueira, 🌟 Philipe Vasconcellos da Silva, 🌟 Rodrigo César Raimundo, 🔹 Anderson Luiz Pereira, 🔹 Ariel Toledo Goulart de Assis, 🔹 Daniel Rodrigues de Oliveira da Costa, 🔹 Daniele Farias Rodrigues , 🔹 Diego dos Santos Simão, 🔹 Fernando Barbosa de Sousa Nogueira, 🔹 Franco Sciolla Ferrari, 🔹 Gustavo dos Santos Cunha, 🔹 José Antônio Marques , 🔹 João Lucas Lins Bomfim, 🔹 João Paulo Martins Laudares dos Santos, 🔹 João Rui Barbosa de Alencar, 🔹 Julio Pansiere Zavarise, 🔹 Leonardo Rodrigues, 🔹 Lucas Aguiar Mendes, 🔹 Lucas Rigolo Ortiz de Camargo , 🔹 Magnus Costa Miranda, 🔹 Maria Eduarda Alves Barnabé, 🔹 Márcio Justino de Melo, 🔹 Pedro Monteiro de Oliveira, 🔹 Thiago Francisco Ferreira, 🔹 Tiago Domingues Figueiredo, 🔹 Tiago Silva Marques, 🔹 Ícaro Vinícius de Souza Juvenal
+</div>
 
 ---
 
-## ⚠️ Aviso Importante!
+## 🎖️ Hall dos Apoiadores
 
-Após se tornar um Membro Titã, **envie uma mensagem para mim no WhatsApp** para que eu possa te adicionar ao grupo exclusivo, liberar o acesso aos conteúdos e te dar boas-vindas!
+> 📅 Atualizado em: 20/03/2026 | Total: **80** apoiadores
 
-✅ Use meu Linktree para encontrar o WhatsApp e outros canais de contato:  
-🔗 <https://linktr.ee/Ai4Tech>
+### 💎 Elite (36+ meses) — 4 membros
 
----
+| | | |
+|---|---|---|
+| Daniel Wagner Oliveira de Medeiros | Fernando Fernandes Vieira  | Fernando Miguel de Amorim Lino |
+| Gabriel Luciano Borges de Carvalho |  |  |
 
-# ❓ FAQ – Clube de Membros Titãs | Canal Nicolas Spogis
+### 🚀 Super Longevity (24+ meses) — 3 membros
 
-## 🔥 O que é o Clube de Membros Titãs?
-O Clube de Membros Titãs é uma comunidade exclusiva para quem deseja apoiar o canal e, ao mesmo tempo, ter acesso a conteúdos técnicos de altíssimo nível, com aulas práticas, simulações e códigos reais nas áreas de Engenharia, Machine Learning, Soft Sensors, DWSIM e muito mais.
+| | | |
+|---|---|---|
+| Izabela Mendes Alves | Matheus Langendorf | Rubens Henrique L. de Oliveira |
 
----
+### 🥇 Ouro (12+ meses) — 27 membros
 
-## 💡 Quais são os benefícios de ser um Membro Titã?
+| | | |
+|---|---|---|
+| Andy Avimael Saavedra Mendoza | Bruno Marcelo Corbalán Da Mota | Carlos Alexandre Moreira da Silva |
+| Cláudia Ferreira da Silva Lirio | Diener Volpin Ribeiro Fontoura | Diocleciano Januário |
+| Dyenny Ellen Lima Lhamas  | Eron Paulo Borges Filho | Fabiano Bisinella Scheufele |
+| Gabriel Hernandez Rozo | Gustavo Roncari da Silva | Hugo Valença |
+| Isabela Dalmolin Battistella | Isaias Surgek De Almeida  | João Manoel Folador Rodriguez |
+| Leví Pereira Quissola | Luis Gustavo Assunção Carneiro | Marcos Guimarães Duarte Dias |
+| Marcos Vinícius Aquino Lopes | Moysés Naves de Moraes | Nathan Alves de Oliveira Framba |
+| Nicholas Islongo Canabarro | Pablo Jimenez Salces | Raniere Pereira de Paula |
+| Rayan Lima Fernandes | Vinícius Duarte Arrigoni | William Costa e Silva |
 
-Ao se tornar membro, você terá acesso imediato a:
+### 🥈 Prata (9+ meses) — 13 membros
 
-- 🎥 **Mais de 50 horas de vídeos exclusivos**
-- 💾 **GitHub privado**
-- 📂 **Material complementar**
-- 🧪 **Desafios técnicos**
-- 💬 **Canal exclusivo no WhatsApp**
-- ✅ **Prioridade nas respostas**
+| | | |
+|---|---|---|
+| Alfredo Vitali | Charles Dayan Farias de Jesus | Ediane Sa Alves |
+| Fiama Cristina dos Reis | Frankhil Contreras Salgado | Hubertt Kenned Elias Jr |
+| Luellen Pereira Rocha | Luiz Augusto da Cruz Meleiro | Marcelo Dahan Gomes da Silva |
+| Mateus de Andrade Vasconcelos | Nathalia Wisniewski Siqueira | Sônia Kesserlingh |
+| Thiago da Silva Oliveira |  |  |
 
----
+### 🌟 Apoiador (6+ meses) — 10 membros
 
-## 💸 Quanto custa para ser membro?
+| | | |
+|---|---|---|
+| Anderson Luiz Pereira | Antônio Possidônio de Mendonça Junior | Carlos Rodrigues Paiva |
+| Diego dos Santos Simão | Henrique Carqueja | Lucas Rigolo Ortiz de Camargo  |
+| Luiz Guilherme Roquette Lopreato | Philipe Vasconcellos da Silva | Rodrigo César Raimundo |
+| Thiago Francisco Ferreira |  |  |
 
-O valor da assinatura é **R$ 40,00 por mês**.  
-Isso é menos do que uma pizza ou duas idas ao café por mês!
+### 🔹 Novo apoiador — 21 membros
 
----
+| | | |
+|---|---|---|
+| Ariel Toledo Goulart de Assis | Daniel Rodrigues de Oliveira da Costa | Daniele Farias Rodrigues  |
+| Fernando Barbosa de Sousa Nogueira | Franco Sciolla Ferrari | Gustavo dos Santos Cunha |
+| Ícaro Vinícius de Souza Juvenal | João Lucas Lins Bomfim | João Paulo Martins Laudares dos Santos |
+| João Rui Barbosa de Alencar | José Antônio Marques  | Julio Pansiere Zavarise |
+| Leonardo Rodrigues | Magnus Costa Miranda | Márcio Justino de Melo |
+| Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto | Pedro Monteiro de Oliveira |
+| Tiago Domingues Figueiredo | Tiago Silva Marques | Lucas Aguiar Mendes |
 
-## 📚 O conteúdo é indicado para quem?
+### 🎓 Bolsistas — 2 membros
 
-Ideal para:
-
-- Estudantes de Engenharia
-- Profissionais da indústria
-- Pesquisadores
-- Engenheiros interessados em Soft Sensors, DOE, Surrogate Models
-
----
-
-## 📆 Com que frequência os conteúdos são postados?
-
-Temos **aulas ao vivo todas as terças-feiras**, das **19:00 às 20:00**, via **Google Meet**, além de gravações disponíveis.
-
----
-
-## 📥 Posso baixar os materiais?
-
-Sim! Códigos, planilhas, PDFs, simulações DWSIM e muito mais.
-
----
-
-## 🧩 Existe algum projeto colaborativo para os membros?
-
-Sim!  
-👉 **Exemplo:** Desafio de Operações Unitárias com DWSIM e Python com prêmio de **R$ 1000,00**
-
----
-
-## 🛑 Posso cancelar quando quiser?
-
-Sim. A assinatura é mensal e sem fidelidade.
+| | | |
+|---|---|---|
+| Kauê Scaranari Alcantara | Wellington de Paula dos Reis |  |
 
 ---
 
-## 🧭 Como eu me torno membro?
+## 💡 O que você ganha sendo Membro Titã?
 
-Clique no botão:  
-👉 **[Seja Membro – Canal Nicolas Spogis](https://www.youtube.com/channel/UCqIQSppLB_USKKN-Y9Z-OTw/join)**
+| Benefício | Descrição |
+|---|---|
+| 🎥 **50+ horas de vídeos exclusivos** | Conteúdo técnico de alto nível |
+| 💾 **GitHub privado** | Acesso a repositórios com códigos e projetos |
+| 📂 **Material complementar** | Planilhas, PDFs, simulações DWSIM |
+| 🧪 **Desafios técnicos** | Competições com prêmios em dinheiro |
+| 💬 **Grupo exclusivo no WhatsApp** | Networking direto com a comunidade |
+| ✅ **Prioridade nas respostas** | Suas dúvidas são respondidas primeiro |
+| 📆 **Aulas ao vivo toda segunda** | 19h às 20h via Google Meet |
+
+💸 **Investimento: R$ 40,00/mês** — menos que uma pizza! Sem fidelidade, cancele quando quiser.
 
 ---
 
-## 📬 Contato
+<div align="center">
 
-📧 Nicolas Spogis  
-<nicolas.spogis@gmail.com>  
-🔗 <https://linktr.ee/Ai4Tech>
+### 👇 Entre agora e faça parte dessa comunidade!
 
----
+[![Seja Membro](https://img.shields.io/badge/🎬_CLIQUE_AQUI_PARA_SER_MEMBRO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqIQSppLB_USKKN-Y9Z-OTw/join)
 
-Um forte abraço e nos vemos nesta nova jornada!  
-**Nicolas Spogis**
+📧 **Nicolas Spogis** — nicolas.spogis@gmail.com
+🔗 [linktr.ee/Ai4Tech](https://linktr.ee/Ai4Tech)
+
+</div>
