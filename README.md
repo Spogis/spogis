@@ -2,7 +2,7 @@
 
 # 🏆 Apoiadores Oficiais — Titãs Casca Grossa Suprema
 
-![Membros](https://img.shields.io/badge/Membros_Ativos-79-22c55e?style=for-the-badge)
+![Membros](https://img.shields.io/badge/Membros_Ativos-78-22c55e?style=for-the-badge)
 ![Bolsistas](https://img.shields.io/badge/Bolsistas-2-f97316?style=for-the-badge)
 ![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)
 ![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)
@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 22/03/2026 | Total: **81** apoiadores
+> 📅 Atualizado em: 22/03/2026 | Total: **80** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -73,17 +73,17 @@
 | Luiz Guilherme Roquette Lopreato | Philipe Vasconcellos da Silva | Rodrigo César Raimundo |
 | Thiago Francisco Ferreira |  |  |
 
-### 🔹 Novo apoiador — 21 membros
+### 🔹 Novo apoiador — 20 membros
 
 | | | |
 |---|---|---|
-| Ariel Toledo Goulart de Assis | Daniel Rodrigues de Oliveira da Costa | Daniele Farias Rodrigues  |
-| Fernando Barbosa de Sousa Nogueira | Franco Sciolla Ferrari | Gustavo dos Santos Cunha |
-| Ícaro Vinícius de Souza Juvenal | João Lucas Lins Bomfim | João Paulo Martins Laudares dos Santos |
-| João Rui Barbosa de Alencar | José Antônio Marques  | Julio Pansiere Zavarise |
-| Leonardo Rodrigues | Magnus Costa Miranda | Márcio Justino de Melo |
-| Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto | Pedro Monteiro de Oliveira |
-| Tiago Domingues Figueiredo | Tiago Silva Marques | Lucas Aguiar Mendes |
+| Ariel Toledo Goulart de Assis | Daniel Rodrigues de Oliveira da Costa | Fernando Barbosa de Sousa Nogueira |
+| Franco Sciolla Ferrari | Gustavo dos Santos Cunha | Ícaro Vinícius de Souza Juvenal |
+| João Lucas Lins Bomfim | João Paulo Martins Laudares dos Santos | João Rui Barbosa de Alencar |
+| José Antônio Marques  | Julio Pansiere Zavarise | Leonardo Rodrigues |
+| Magnus Costa Miranda | Márcio Justino de Melo | Maria Eduarda Alves Barnabé |
+| Michelle Ayres de Campos Pinto | Pedro Monteiro de Oliveira | Tiago Domingues Figueiredo |
+| Tiago Silva Marques | Lucas Aguiar Mendes |  |
 
 ### 🎓 Bolsistas — 2 membros
 
