@@ -2,8 +2,8 @@
 
 # 🏆 Apoiadores Oficiais — Titãs Casca Grossa Suprema
 
-![Membros](https://img.shields.io/badge/Membros_Ativos-78-22c55e?style=for-the-badge)
-![Bolsistas](https://img.shields.io/badge/Bolsistas-2-f97316?style=for-the-badge)
+![Membros](https://img.shields.io/badge/Membros_Ativos-77-22c55e?style=for-the-badge)
+![Bolsistas](https://img.shields.io/badge/Bolsistas-1-f97316?style=for-the-badge)
 ![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)
 ![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)
 
@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 23/03/2026 | Total: **80** apoiadores
+> 📅 Atualizado em: 24/03/2026 | Total: **78** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -54,24 +54,23 @@
 | Raniere Pereira de Paula | Rayan Lima Fernandes | Vinícius Duarte Arrigoni |
 | William Costa e Silva |  |  |
 
-### 🥈 Prata (9+ meses) — 13 membros
+### 🥈 Prata (9+ meses) — 14 membros
 
 | | | |
 |---|---|---|
-| Alfredo Vitali | Charles Dayan Farias de Jesus | Ediane Sa Alves |
-| Fiama Cristina dos Reis | Frankhil Contreras Salgado | Hubertt Kenned Elias Jr |
-| Luellen Pereira Rocha | Luiz Augusto da Cruz Meleiro | Marcelo Dahan Gomes da Silva |
-| Mateus de Andrade Vasconcelos | Nathalia Wisniewski Siqueira | Sônia Kesserlingh |
-| Thiago da Silva Oliveira |  |  |
+| Alfredo Vitali | Antônio Possidônio de Mendonça Junior | Charles Dayan Farias de Jesus |
+| Ediane Sa Alves | Fiama Cristina dos Reis | Frankhil Contreras Salgado |
+| Hubertt Kenned Elias Jr | Luellen Pereira Rocha | Luiz Augusto da Cruz Meleiro |
+| Marcelo Dahan Gomes da Silva | Mateus de Andrade Vasconcelos | Nathalia Wisniewski Siqueira |
+| Sônia Kesserlingh | Thiago da Silva Oliveira |  |
 
-### 🌟 Apoiador (6+ meses) — 10 membros
+### 🌟 Apoiador (6+ meses) — 8 membros
 
 | | | |
 |---|---|---|
-| Anderson Luiz Pereira | Antônio Possidônio de Mendonça Junior | Carlos Rodrigues Paiva |
-| Diego dos Santos Simão | Henrique Carqueja | Lucas Rigolo Ortiz de Camargo  |
-| Luiz Guilherme Roquette Lopreato | Philipe Vasconcellos da Silva | Rodrigo César Raimundo |
-| Thiago Francisco Ferreira |  |  |
+| Anderson Luiz Pereira | Carlos Rodrigues Paiva | Diego dos Santos Simão |
+| Henrique Carqueja | Lucas Rigolo Ortiz de Camargo  | Luiz Guilherme Roquette Lopreato |
+| Philipe Vasconcellos da Silva | Thiago Francisco Ferreira |  |
 
 ### 🔹 Novo apoiador — 20 membros
 
@@ -85,11 +84,11 @@
 | Michelle Ayres de Campos Pinto | Pedro Monteiro de Oliveira | Tiago Domingues Figueiredo |
 | Tiago Silva Marques | Lucas Aguiar Mendes |  |
 
-### 🎓 Bolsistas — 2 membros
+### 🎓 Bolsistas — 1 membro
 
 | | | |
 |---|---|---|
-| Kauê Scaranari Alcantara | Wellington de Paula dos Reis |  |
+| Kauê Scaranari Alcantara |  |  |
 
 ---
 
