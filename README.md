@@ -79,10 +79,10 @@
 | Ariel Toledo Goulart de Assis | Daniel Rodrigues de Oliveira da Costa | Fernando Barbosa de Sousa Nogueira |
 | Franco Sciolla Ferrari | Gustavo dos Santos Cunha | Ícaro Vinícius de Souza Juvenal |
 | João Lucas Lins Bomfim | João Paulo Martins Laudares dos Santos | João Rui Barbosa de Alencar |
-| José Antônio Marques  | Julio Pansiere Zavarise | Leonardo Rodrigues |
-| Magnus Costa Miranda | Márcio Justino de Melo | Maria Eduarda Alves Barnabé |
-| Michelle Ayres de Campos Pinto | Pedro Monteiro de Oliveira | Tiago Domingues Figueiredo |
-| Tiago Silva Marques | Lucas Aguiar Mendes |  |
+| José Antônio Marques  | Julio Pansiere Zavarise | Magnus Costa Miranda |
+| Márcio Justino de Melo | Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto |
+| Pedro Monteiro de Oliveira | Tiago Domingues Figueiredo | Tiago Silva Marques |
+| Lucas Aguiar Mendes | Matheus Luiz D Imperio Donini |  |
 
 ### 🎓 Bolsistas — 1 membro
 
