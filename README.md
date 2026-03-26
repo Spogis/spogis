@@ -2,7 +2,7 @@
 
 # 🏆 Apoiadores Oficiais — Titãs Casca Grossa Suprema
 
-![Membros](https://img.shields.io/badge/Membros_Ativos-77-22c55e?style=for-the-badge)
+![Membros](https://img.shields.io/badge/Membros_Ativos-76-22c55e?style=for-the-badge)
 ![Bolsistas](https://img.shields.io/badge/Bolsistas-1-f97316?style=for-the-badge)
 ![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)
 ![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)
@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 24/03/2026 | Total: **78** apoiadores
+> 📅 Atualizado em: 26/03/2026 | Total: **77** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -39,20 +39,19 @@
 |---|---|---|
 | Izabela Mendes Alves | Matheus Langendorf | Rubens Henrique L. de Oliveira |
 
-### 🥇 Ouro (12+ meses) — 28 membros
+### 🥇 Ouro (12+ meses) — 27 membros
 
 | | | |
 |---|---|---|
 | Andy Avimael Saavedra Mendoza | Bruno Marcelo Corbalán Da Mota | Carlos Alexandre Moreira da Silva |
-| Cláudia Ferreira da Silva Lirio | Diener Volpin Ribeiro Fontoura | Diocleciano Januário |
-| Dyenny Ellen Lima Lhamas  | Eron Paulo Borges Filho | Fabiano Bisinella Scheufele |
-| Gabriel Hernandez Rozo | Gustavo Roncari da Silva | Hugo Valença |
-| Isabela Dalmolin Battistella | Isaias Surgek De Almeida  | João Manoel Folador Rodriguez |
-| Julio Cesar do Carmo | Leví Pereira Quissola | Luis Gustavo Assunção Carneiro |
-| Marcos Guimarães Duarte Dias | Marcos Vinícius Aquino Lopes | Moysés Naves de Moraes |
-| Nathan Alves de Oliveira Framba | Nicholas Islongo Canabarro | Pablo Jimenez Salces |
-| Raniere Pereira de Paula | Rayan Lima Fernandes | Vinícius Duarte Arrigoni |
-| William Costa e Silva |  |  |
+| Cláudia Ferreira da Silva Lirio | Diener Volpin Ribeiro Fontoura | Dyenny Ellen Lima Lhamas  |
+| Eron Paulo Borges Filho | Fabiano Bisinella Scheufele | Gabriel Hernandez Rozo |
+| Gustavo Roncari da Silva | Hugo Valença | Isabela Dalmolin Battistella |
+| Isaias Surgek De Almeida  | João Manoel Folador Rodriguez | Julio Cesar do Carmo |
+| Leví Pereira Quissola | Luis Gustavo Assunção Carneiro | Marcos Guimarães Duarte Dias |
+| Marcos Vinícius Aquino Lopes | Moysés Naves de Moraes | Nathan Alves de Oliveira Framba |
+| Nicholas Islongo Canabarro | Pablo Jimenez Salces | Raniere Pereira de Paula |
+| Rayan Lima Fernandes | Vinícius Duarte Arrigoni | William Costa e Silva |
 
 ### 🥈 Prata (9+ meses) — 14 membros
 
