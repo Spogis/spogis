@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 26/03/2026 | Total: **77** apoiadores
+> 📅 Atualizado em: 28/03/2026 | Total: **77** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -53,23 +53,23 @@
 | Nicholas Islongo Canabarro | Pablo Jimenez Salces | Raniere Pereira de Paula |
 | Rayan Lima Fernandes | Vinícius Duarte Arrigoni | William Costa e Silva |
 
-### 🥈 Prata (9+ meses) — 14 membros
+### 🥈 Prata (9+ meses) — 15 membros
 
 | | | |
 |---|---|---|
 | Alfredo Vitali | Antônio Possidônio de Mendonça Junior | Charles Dayan Farias de Jesus |
 | Ediane Sa Alves | Fiama Cristina dos Reis | Frankhil Contreras Salgado |
 | Hubertt Kenned Elias Jr | Luellen Pereira Rocha | Luiz Augusto da Cruz Meleiro |
-| Marcelo Dahan Gomes da Silva | Mateus de Andrade Vasconcelos | Nathalia Wisniewski Siqueira |
-| Sônia Kesserlingh | Thiago da Silva Oliveira |  |
+| Luiz Guilherme Roquette Lopreato | Marcelo Dahan Gomes da Silva | Mateus de Andrade Vasconcelos |
+| Nathalia Wisniewski Siqueira | Sônia Kesserlingh | Thiago da Silva Oliveira |
 
-### 🌟 Apoiador (6+ meses) — 8 membros
+### 🌟 Apoiador (6+ meses) — 7 membros
 
 | | | |
 |---|---|---|
 | Anderson Luiz Pereira | Carlos Rodrigues Paiva | Diego dos Santos Simão |
-| Henrique Carqueja | Lucas Rigolo Ortiz de Camargo  | Luiz Guilherme Roquette Lopreato |
-| Philipe Vasconcellos da Silva | Thiago Francisco Ferreira |  |
+| Henrique Carqueja | Lucas Rigolo Ortiz de Camargo  | Philipe Vasconcellos da Silva |
+| Thiago Francisco Ferreira |  |  |
 
 ### 🔹 Novo apoiador — 20 membros
 
