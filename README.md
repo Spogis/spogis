@@ -39,19 +39,20 @@
 |---|---|---|
 | Izabela Mendes Alves | Matheus Langendorf | Rubens Henrique L. de Oliveira |
 
-### 🥇 Ouro (12+ meses) — 27 membros
+### 🥇 Ouro (12+ meses) — 28 membros
 
 | | | |
 |---|---|---|
 | Andy Avimael Saavedra Mendoza | Bruno Marcelo Corbalán Da Mota | Carlos Alexandre Moreira da Silva |
-| Cláudia Ferreira da Silva Lirio | Diener Volpin Ribeiro Fontoura | Dyenny Ellen Lima Lhamas  |
-| Eron Paulo Borges Filho | Fabiano Bisinella Scheufele | Gabriel Hernandez Rozo |
-| Gustavo Roncari da Silva | Hugo Valença | Isabela Dalmolin Battistella |
-| Isaias Surgek De Almeida  | João Manoel Folador Rodriguez | Julio Cesar do Carmo |
-| Leví Pereira Quissola | Luis Gustavo Assunção Carneiro | Marcos Guimarães Duarte Dias |
-| Marcos Vinícius Aquino Lopes | Moysés Naves de Moraes | Nathan Alves de Oliveira Framba |
-| Nicholas Islongo Canabarro | Pablo Jimenez Salces | Raniere Pereira de Paula |
-| Rayan Lima Fernandes | Vinícius Duarte Arrigoni | William Costa e Silva |
+| Cláudia Ferreira da Silva Lirio | Diener Volpin Ribeiro Fontoura | Diocleciano Januário |
+| Dyenny Ellen Lima Lhamas  | Eron Paulo Borges Filho | Fabiano Bisinella Scheufele |
+| Gabriel Hernandez Rozo | Gustavo Roncari da Silva | Hugo Valença |
+| Isabela Dalmolin Battistella | Isaias Surgek De Almeida  | João Manoel Folador Rodriguez |
+| Julio Cesar do Carmo | Leví Pereira Quissola | Luis Gustavo Assunção Carneiro |
+| Marcos Guimarães Duarte Dias | Marcos Vinícius Aquino Lopes | Moysés Naves de Moraes |
+| Nathan Alves de Oliveira Framba | Nicholas Islongo Canabarro | Pablo Jimenez Salces |
+| Raniere Pereira de Paula | Rayan Lima Fernandes | Vinícius Duarte Arrigoni |
+| William Costa e Silva |  |  |
 
 ### 🥈 Prata (9+ meses) — 15 membros
 
@@ -63,13 +64,12 @@
 | Luiz Guilherme Roquette Lopreato | Marcelo Dahan Gomes da Silva | Mateus de Andrade Vasconcelos |
 | Nathalia Wisniewski Siqueira | Sônia Kesserlingh | Thiago da Silva Oliveira |
 
-### 🌟 Apoiador (6+ meses) — 7 membros
+### 🌟 Apoiador (6+ meses) — 6 membros
 
 | | | |
 |---|---|---|
 | Anderson Luiz Pereira | Carlos Rodrigues Paiva | Diego dos Santos Simão |
-| Henrique Carqueja | Lucas Rigolo Ortiz de Camargo  | Philipe Vasconcellos da Silva |
-| Thiago Francisco Ferreira |  |  |
+| Lucas Rigolo Ortiz de Camargo  | Philipe Vasconcellos da Silva | Thiago Francisco Ferreira |
 
 ### 🔹 Novo apoiador — 20 membros
 
