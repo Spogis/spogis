@@ -2,7 +2,7 @@
 
 # 🏆 Apoiadores Oficiais — Titãs Casca Grossa Suprema
 
-![Membros](https://img.shields.io/badge/Membros_Ativos-74-22c55e?style=for-the-badge)
+![Membros](https://img.shields.io/badge/Membros_Ativos-75-22c55e?style=for-the-badge)
 ![Bolsistas](https://img.shields.io/badge/Bolsistas-1-f97316?style=for-the-badge)
 ![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)
 ![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)
@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 29/03/2026 | Total: **75** apoiadores
+> 📅 Atualizado em: 30/03/2026 | Total: **76** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -70,7 +70,7 @@
 | Anderson Luiz Pereira | Carlos Rodrigues Paiva | Diego dos Santos Simão |
 | Lucas Rigolo Ortiz de Camargo  | Philipe Vasconcellos da Silva | Thiago Francisco Ferreira |
 
-### 🔹 Novo apoiador — 20 membros
+### 🔹 Novo apoiador — 21 membros
 
 | | | |
 |---|---|---|
@@ -80,7 +80,7 @@
 | José Antônio Marques  | Julio Pansiere Zavarise | Magnus Costa Miranda |
 | Márcio Justino de Melo | Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto |
 | Pedro Monteiro de Oliveira | Tiago Domingues Figueiredo | Tiago Silva Marques |
-| Lucas Aguiar Mendes | Matheus Luiz D Imperio Donini |  |
+| Lucas Aguiar Mendes | Matheus Luiz D Imperio Donini | Matheus Feliciano |
 
 ### 🎓 Bolsistas — 1 membro
 
