@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 30/03/2026 | Total: **76** apoiadores
+> 📅 Atualizado em: 01/04/2026 | Total: **76** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -39,29 +39,29 @@
 |---|---|---|
 | Izabela Mendes Alves | Matheus Langendorf | Rubens Henrique L. de Oliveira |
 
-### 🥇 Ouro (12+ meses) — 26 membros
+### 🥇 Ouro (12+ meses) — 27 membros
 
 | | | |
 |---|---|---|
-| Bruno Marcelo Corbalán Da Mota | Carlos Alexandre Moreira da Silva | Cláudia Ferreira da Silva Lirio |
-| Diener Volpin Ribeiro Fontoura | Diocleciano Januário | Dyenny Ellen Lima Lhamas  |
-| Eron Paulo Borges Filho | Fabiano Bisinella Scheufele | Gabriel Hernandez Rozo |
-| Hugo Valença | Isabela Dalmolin Battistella | Isaias Surgek De Almeida  |
-| João Manoel Folador Rodriguez | Julio Cesar do Carmo | Leví Pereira Quissola |
-| Luis Gustavo Assunção Carneiro | Marcos Guimarães Duarte Dias | Marcos Vinícius Aquino Lopes |
-| Moysés Naves de Moraes | Nathan Alves de Oliveira Framba | Nicholas Islongo Canabarro |
-| Pablo Jimenez Salces | Raniere Pereira de Paula | Rayan Lima Fernandes |
-| Vinícius Duarte Arrigoni | William Costa e Silva |  |
+| Bruno Marcelo Corbalán Da Mota | Carlos Alexandre Moreira da Silva | Charles Dayan Farias de Jesus |
+| Cláudia Ferreira da Silva Lirio | Diener Volpin Ribeiro Fontoura | Diocleciano Januário |
+| Dyenny Ellen Lima Lhamas  | Eron Paulo Borges Filho | Fabiano Bisinella Scheufele |
+| Gabriel Hernandez Rozo | Hugo Valença | Isabela Dalmolin Battistella |
+| Isaias Surgek De Almeida  | João Manoel Folador Rodriguez | Julio Cesar do Carmo |
+| Leví Pereira Quissola | Luis Gustavo Assunção Carneiro | Marcos Guimarães Duarte Dias |
+| Marcos Vinícius Aquino Lopes | Moysés Naves de Moraes | Nathan Alves de Oliveira Framba |
+| Nicholas Islongo Canabarro | Pablo Jimenez Salces | Raniere Pereira de Paula |
+| Rayan Lima Fernandes | Vinícius Duarte Arrigoni | William Costa e Silva |
 
-### 🥈 Prata (9+ meses) — 15 membros
+### 🥈 Prata (9+ meses) — 14 membros
 
 | | | |
 |---|---|---|
-| Alfredo Vitali | Antônio Possidônio de Mendonça Junior | Charles Dayan Farias de Jesus |
-| Ediane Sa Alves | Fiama Cristina dos Reis | Frankhil Contreras Salgado |
-| Hubertt Kenned Elias Jr | Luellen Pereira Rocha | Luiz Augusto da Cruz Meleiro |
-| Luiz Guilherme Roquette Lopreato | Marcelo Dahan Gomes da Silva | Mateus de Andrade Vasconcelos |
-| Nathalia Wisniewski Siqueira | Sônia Kesserlingh | Thiago da Silva Oliveira |
+| Alfredo Vitali | Antônio Possidônio de Mendonça Junior | Ediane Sa Alves |
+| Fiama Cristina dos Reis | Frankhil Contreras Salgado | Hubertt Kenned Elias Jr |
+| Luellen Pereira Rocha | Luiz Augusto da Cruz Meleiro | Luiz Guilherme Roquette Lopreato |
+| Marcelo Dahan Gomes da Silva | Mateus de Andrade Vasconcelos | Nathalia Wisniewski Siqueira |
+| Sônia Kesserlingh | Thiago da Silva Oliveira |  |
 
 ### 🌟 Apoiador (6+ meses) — 6 membros
 
