@@ -2,7 +2,7 @@
 
 # 🏆 Apoiadores Oficiais — Titãs Casca Grossa Suprema
 
-![Membros](https://img.shields.io/badge/Membros_Ativos-75-22c55e?style=for-the-badge)
+![Membros](https://img.shields.io/badge/Membros_Ativos-74-22c55e?style=for-the-badge)
 ![Bolsistas](https://img.shields.io/badge/Bolsistas-1-f97316?style=for-the-badge)
 ![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)
 ![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)
@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 01/04/2026 | Total: **76** apoiadores
+> 📅 Atualizado em: 05/04/2026 | Total: **75** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -39,7 +39,7 @@
 |---|---|---|
 | Izabela Mendes Alves | Matheus Langendorf | Rubens Henrique L. de Oliveira |
 
-### 🥇 Ouro (12+ meses) — 27 membros
+### 🥇 Ouro (12+ meses) — 28 membros
 
 | | | |
 |---|---|---|
@@ -51,24 +51,25 @@
 | Leví Pereira Quissola | Luis Gustavo Assunção Carneiro | Marcos Guimarães Duarte Dias |
 | Marcos Vinícius Aquino Lopes | Moysés Naves de Moraes | Nathan Alves de Oliveira Framba |
 | Nicholas Islongo Canabarro | Pablo Jimenez Salces | Raniere Pereira de Paula |
-| Rayan Lima Fernandes | Vinícius Duarte Arrigoni | William Costa e Silva |
+| Rayan Lima Fernandes | Thiago da Silva Oliveira | Vinícius Duarte Arrigoni |
+| William Costa e Silva |  |  |
 
-### 🥈 Prata (9+ meses) — 14 membros
-
-| | | |
-|---|---|---|
-| Alfredo Vitali | Antônio Possidônio de Mendonça Junior | Ediane Sa Alves |
-| Fiama Cristina dos Reis | Frankhil Contreras Salgado | Hubertt Kenned Elias Jr |
-| Luellen Pereira Rocha | Luiz Augusto da Cruz Meleiro | Luiz Guilherme Roquette Lopreato |
-| Marcelo Dahan Gomes da Silva | Mateus de Andrade Vasconcelos | Nathalia Wisniewski Siqueira |
-| Sônia Kesserlingh | Thiago da Silva Oliveira |  |
-
-### 🌟 Apoiador (6+ meses) — 6 membros
+### 🥈 Prata (9+ meses) — 13 membros
 
 | | | |
 |---|---|---|
-| Anderson Luiz Pereira | Carlos Rodrigues Paiva | Diego dos Santos Simão |
-| Lucas Rigolo Ortiz de Camargo  | Philipe Vasconcellos da Silva | Thiago Francisco Ferreira |
+| Alfredo Vitali | Antônio Possidônio de Mendonça Junior | Diego dos Santos Simão |
+| Ediane Sa Alves | Fiama Cristina dos Reis | Frankhil Contreras Salgado |
+| Hubertt Kenned Elias Jr | Luellen Pereira Rocha | Luiz Augusto da Cruz Meleiro |
+| Luiz Guilherme Roquette Lopreato | Marcelo Dahan Gomes da Silva | Nathalia Wisniewski Siqueira |
+| Sônia Kesserlingh |  |  |
+
+### 🌟 Apoiador (6+ meses) — 5 membros
+
+| | | |
+|---|---|---|
+| Anderson Luiz Pereira | Carlos Rodrigues Paiva | Lucas Rigolo Ortiz de Camargo  |
+| Philipe Vasconcellos da Silva | Thiago Francisco Ferreira |  |
 
 ### 🔹 Novo apoiador — 21 membros
 
