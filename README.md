@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 06/04/2026 | Total: **76** apoiadores
+> 📅 Atualizado em: 08/04/2026 | Total: **76** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -54,22 +54,22 @@
 | Nicholas Islongo Canabarro | Pablo Jimenez Salces | Raniere Pereira de Paula |
 | Rayan Lima Fernandes | Thiago da Silva Oliveira | Vinícius Duarte Arrigoni |
 
-### 🥈 Prata (9+ meses) — 14 membros
+### 🥈 Prata (9+ meses) — 15 membros
 
 | | | |
 |---|---|---|
-| Alfredo Vitali | Antônio Possidônio de Mendonça Junior | Diego dos Santos Simão |
-| Ediane Sa Alves | Fiama Cristina dos Reis | Frankhil Contreras Salgado |
-| Hubertt Kenned Elias Jr | Luellen Pereira Rocha | Luiz Augusto da Cruz Meleiro |
-| Luiz Guilherme Roquette Lopreato | Marcelo Dahan Gomes da Silva | Mateus de Andrade Vasconcelos |
-| Nathalia Wisniewski Siqueira | Sônia Kesserlingh |  |
+| Alfredo Vitali | Antônio Possidônio de Mendonça Junior | Carlos Rodrigues Paiva |
+| Diego dos Santos Simão | Ediane Sa Alves | Fiama Cristina dos Reis |
+| Frankhil Contreras Salgado | Hubertt Kenned Elias Jr | Luellen Pereira Rocha |
+| Luiz Augusto da Cruz Meleiro | Luiz Guilherme Roquette Lopreato | Marcelo Dahan Gomes da Silva |
+| Mateus de Andrade Vasconcelos | Nathalia Wisniewski Siqueira | Sônia Kesserlingh |
 
-### 🌟 Apoiador (6+ meses) — 5 membros
+### 🌟 Apoiador (6+ meses) — 4 membros
 
 | | | |
 |---|---|---|
-| Anderson Luiz Pereira | Carlos Rodrigues Paiva | Lucas Rigolo Ortiz de Camargo  |
-| Philipe Vasconcellos da Silva | Thiago Francisco Ferreira |  |
+| Anderson Luiz Pereira | Lucas Rigolo Ortiz de Camargo  | Philipe Vasconcellos da Silva |
+| Thiago Francisco Ferreira |  |  |
 
 ### 🔹 Novo apoiador — 21 membros
 
