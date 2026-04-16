@@ -2,7 +2,7 @@
 
 # 🏆 Apoiadores Oficiais — Titãs Casca Grossa Suprema
 
-![Membros](https://img.shields.io/badge/Membros_Ativos-75-22c55e?style=for-the-badge)
+![Membros](https://img.shields.io/badge/Membros_Ativos-76-22c55e?style=for-the-badge)
 ![Bolsistas](https://img.shields.io/badge/Bolsistas-1-f97316?style=for-the-badge)
 ![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)
 ![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)
@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 16/04/2026 | Total: **76** apoiadores
+> 📅 Atualizado em: 16/04/2026 | Total: **77** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -72,17 +72,17 @@
 | Anderson Luiz Pereira | João Lucas Lins Bomfim | Lucas Rigolo Ortiz de Camargo  |
 | Magnus Costa Miranda | Thiago Francisco Ferreira |  |
 
-### 🔹 Novo apoiador — 19 membros
+### 🔹 Novo apoiador — 20 membros
 
 | | | |
 |---|---|---|
 | Ariel Toledo Goulart de Assis | Daniel Rodrigues de Oliveira da Costa | Fernando Barbosa de Sousa Nogueira |
-| Gustavo dos Santos Cunha | Ícaro Vinícius de Souza Juvenal | João Paulo Martins Laudares dos Santos |
-| João Rui Barbosa de Alencar | José Antônio Marques  | Julio Pansiere Zavarise |
-| Márcio Justino de Melo | Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto |
-| Pedro Monteiro de Oliveira | Tiago Domingues Figueiredo | Tiago Silva Marques |
-| Lucas Aguiar Mendes | Matheus Luiz D Imperio Donini | Matheus Feliciano Barros Gomes |
-| Andrea Valsasina |  |  |
+| Franco Sciolla Ferrari | Gustavo dos Santos Cunha | Ícaro Vinícius de Souza Juvenal |
+| João Paulo Martins Laudares dos Santos | João Rui Barbosa de Alencar | José Antônio Marques  |
+| Julio Pansiere Zavarise | Márcio Justino de Melo | Maria Eduarda Alves Barnabé |
+| Michelle Ayres de Campos Pinto | Pedro Monteiro de Oliveira | Tiago Domingues Figueiredo |
+| Tiago Silva Marques | Lucas Aguiar Mendes | Matheus Luiz D Imperio Donini |
+| Matheus Feliciano Barros Gomes | Andrea Valsasina |  |
 
 ### 🎓 Bolsistas — 1 membro
 
