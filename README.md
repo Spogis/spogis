@@ -2,7 +2,7 @@
 
 # 🏆 Apoiadores Oficiais — Titãs Casca Grossa Suprema
 
-![Membros](https://img.shields.io/badge/Membros_Ativos-74-22c55e?style=for-the-badge)
+![Membros](https://img.shields.io/badge/Membros_Ativos-73-22c55e?style=for-the-badge)
 ![Bolsistas](https://img.shields.io/badge/Bolsistas-1-f97316?style=for-the-badge)
 ![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)
 ![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)
@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 21/04/2026 | Total: **75** apoiadores
+> 📅 Atualizado em: 22/04/2026 | Total: **74** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -54,15 +54,15 @@
 | Nicholas Islongo Canabarro | Pablo Jimenez Salces | Raniere Pereira de Paula |
 | Rayan Lima Fernandes | Thiago da Silva Oliveira | Vinícius Duarte Arrigoni |
 
-### 🥈 Prata (9+ meses) — 15 membros
+### 🥈 Prata (9+ meses) — 14 membros
 
 | | | |
 |---|---|---|
 | Alfredo Vitali | Antônio Possidônio de Mendonça Junior | Carlos Rodrigues Paiva |
 | Diego dos Santos Simão | Ediane Sa Alves | Frankhil Contreras Salgado |
 | Hubertt Kenned Elias Jr | Luellen Pereira Rocha | Luiz Augusto da Cruz Meleiro |
-| Luiz Guilherme Roquette Lopreato | Marcelo Dahan Gomes da Silva | Mateus de Andrade Vasconcelos |
-| Nathalia Wisniewski Siqueira | Philipe Vasconcellos da Silva | Sônia Kesserlingh |
+| Luiz Guilherme Roquette Lopreato | Mateus de Andrade Vasconcelos | Nathalia Wisniewski Siqueira |
+| Philipe Vasconcellos da Silva | Sônia Kesserlingh |  |
 
 ### 🌟 Apoiador (6+ meses) — 6 membros
 
