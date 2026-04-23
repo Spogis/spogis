@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 22/04/2026 | Total: **75** apoiadores
+> 📅 Atualizado em: 23/04/2026 | Total: **75** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -64,24 +64,24 @@
 | Luiz Guilherme Roquette Lopreato | Mateus de Andrade Vasconcelos | Nathalia Wisniewski Siqueira |
 | Philipe Vasconcellos da Silva | Sônia Kesserlingh |  |
 
-### 🌟 Apoiador (6+ meses) — 6 membros
+### 🌟 Apoiador (6+ meses) — 8 membros
 
 | | | |
 |---|---|---|
-| Anderson Luiz Pereira | João Lucas Lins Bomfim | Lucas Rigolo Ortiz de Camargo  |
-| Magnus Costa Miranda | Márcio Justino de Melo | Thiago Francisco Ferreira |
+| Anderson Luiz Pereira | Gustavo dos Santos Cunha | João Lucas Lins Bomfim |
+| Lucas Rigolo Ortiz de Camargo  | Magnus Costa Miranda | Márcio Justino de Melo |
+| Thiago Francisco Ferreira | Tiago Domingues Figueiredo |  |
 
-### 🔹 Novo apoiador — 19 membros
+### 🔹 Novo apoiador — 17 membros
 
 | | | |
 |---|---|---|
 | Ariel Toledo Goulart de Assis | Daniel Rodrigues de Oliveira da Costa | Fernando Barbosa de Sousa Nogueira |
-| Franco Sciolla Ferrari | Gustavo dos Santos Cunha | Ícaro Vinícius de Souza Juvenal |
-| João Paulo Martins Laudares dos Santos | João Rui Barbosa de Alencar | José Antônio Marques  |
-| Julio Pansiere Zavarise | Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto |
-| Pedro Monteiro de Oliveira | Tiago Domingues Figueiredo | Tiago Silva Marques |
-| Matheus Luiz D Imperio Donini | Matheus Feliciano Barros Gomes | Andrea Valsasina |
-| Vinícius Santos |  |  |
+| Franco Sciolla Ferrari | Ícaro Vinícius de Souza Juvenal | João Paulo Martins Laudares dos Santos |
+| João Rui Barbosa de Alencar | José Antônio Marques  | Julio Pansiere Zavarise |
+| Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto | Pedro Monteiro de Oliveira |
+| Tiago Silva Marques | Matheus Luiz D Imperio Donini | Matheus Feliciano Barros Gomes |
+| Andrea Valsasina | Vinícius Santos |  |
 
 ### 🎓 Bolsistas — 1 membro
 
