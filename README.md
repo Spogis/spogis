@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 25/04/2026 | Total: **76** apoiadores
+> 📅 Atualizado em: 28/04/2026 | Total: **76** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -33,55 +33,55 @@
 | Daniel Wagner Oliveira de Medeiros | Fernando Fernandes Vieira  | Fernando Miguel de Amorim Lino |
 | Gabriel Luciano Borges de Carvalho |  |  |
 
-### 🚀 Super Longevity (24+ meses) — 4 membros
+### 🚀 Super Longevity (24+ meses) — 5 membros
 
 | | | |
 |---|---|---|
-| Izabela Mendes Alves | Matheus Langendorf | Rubens Henrique L. de Oliveira |
-| William Costa e Silva |  |  |
+| Diocleciano Januário | Izabela Mendes Alves | Matheus Langendorf |
+| Rubens Henrique L. de Oliveira | William Costa e Silva |  |
 
 ### 🥇 Ouro (12+ meses) — 27 membros
 
 | | | |
 |---|---|---|
 | Bruno Marcelo Corbalán Da Mota | Carlos Alexandre Moreira da Silva | Charles Dayan Farias de Jesus |
-| Cláudia Ferreira da Silva Lirio | Diener Volpin Ribeiro Fontoura | Diocleciano Januário |
-| Dyenny Ellen Lima Lhamas  | Eron Paulo Borges Filho | Fabiano Bisinella Scheufele |
-| Fiama Cristina dos Reis | Gabriel Hernandez Rozo | Hugo Valença |
+| Cláudia Ferreira da Silva Lirio | Diener Volpin Ribeiro Fontoura | Dyenny Ellen Lima Lhamas  |
+| Eron Paulo Borges Filho | Fabiano Bisinella Scheufele | Fiama Cristina dos Reis |
+| Frankhil Contreras Salgado | Gabriel Hernandez Rozo | Hugo Valença |
 | Isabela Dalmolin Battistella | Isaias Surgek De Almeida  | João Manoel Folador Rodriguez |
 | Leví Pereira Quissola | Luis Gustavo Assunção Carneiro | Marcos Guimarães Duarte Dias |
 | Marcos Vinícius Aquino Lopes | Moysés Naves de Moraes | Nathan Alves de Oliveira Framba |
 | Nicholas Islongo Canabarro | Pablo Jimenez Salces | Raniere Pereira de Paula |
 | Rayan Lima Fernandes | Thiago da Silva Oliveira | Vinícius Duarte Arrigoni |
 
-### 🥈 Prata (9+ meses) — 14 membros
+### 🥈 Prata (9+ meses) — 13 membros
 
 | | | |
 |---|---|---|
 | Alfredo Vitali | Antônio Possidônio de Mendonça Junior | Carlos Rodrigues Paiva |
-| Diego dos Santos Simão | Ediane Sa Alves | Frankhil Contreras Salgado |
-| Hubertt Kenned Elias Jr | Luellen Pereira Rocha | Luiz Augusto da Cruz Meleiro |
-| Luiz Guilherme Roquette Lopreato | Mateus de Andrade Vasconcelos | Nathalia Wisniewski Siqueira |
-| Philipe Vasconcellos da Silva | Sônia Kesserlingh |  |
+| Diego dos Santos Simão | Ediane Sa Alves | Hubertt Kenned Elias Jr |
+| Luellen Pereira Rocha | Luiz Augusto da Cruz Meleiro | Luiz Guilherme Roquette Lopreato |
+| Mateus de Andrade Vasconcelos | Nathalia Wisniewski Siqueira | Philipe Vasconcellos da Silva |
+| Sônia Kesserlingh |  |  |
 
-### 🌟 Apoiador (6+ meses) — 8 membros
+### 🌟 Apoiador (6+ meses) — 9 membros
 
 | | | |
 |---|---|---|
 | Anderson Luiz Pereira | Gustavo dos Santos Cunha | João Lucas Lins Bomfim |
-| Lucas Rigolo Ortiz de Camargo  | Magnus Costa Miranda | Márcio Justino de Melo |
-| Thiago Francisco Ferreira | Tiago Domingues Figueiredo |  |
+| José Antônio Marques  | Lucas Rigolo Ortiz de Camargo  | Magnus Costa Miranda |
+| Márcio Justino de Melo | Thiago Francisco Ferreira | Tiago Domingues Figueiredo |
 
-### 🔹 Novo apoiador — 18 membros
+### 🔹 Novo apoiador — 17 membros
 
 | | | |
 |---|---|---|
 | Ariel Toledo Goulart de Assis | Daniel Rodrigues de Oliveira da Costa | Fernando Barbosa de Sousa Nogueira |
 | Franco Sciolla Ferrari | Ícaro Vinícius de Souza Juvenal | João Paulo Martins Laudares dos Santos |
-| João Rui Barbosa de Alencar | José Antônio Marques  | Julio Pansiere Zavarise |
-| Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto | Pedro Monteiro de Oliveira |
-| Tiago Silva Marques | Matheus Luiz D Imperio Donini | Matheus Feliciano Barros Gomes |
-| Andrea Valsasina | Vinícius Santos | Edilton Nunes |
+| João Rui Barbosa de Alencar | Julio Pansiere Zavarise | Maria Eduarda Alves Barnabé |
+| Michelle Ayres de Campos Pinto | Pedro Monteiro de Oliveira | Tiago Silva Marques |
+| Matheus Luiz D Imperio Donini | Matheus Feliciano Barros Gomes | Andrea Valsasina |
+| Vinícius Santos | Edilton Nunes |  |
 
 ### 🎓 Bolsistas — 1 membro
 
