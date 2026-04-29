@@ -2,7 +2,7 @@
 
 # 🏆 Apoiadores Oficiais — Titãs Casca Grossa Suprema
 
-![Membros](https://img.shields.io/badge/Membros_Ativos-74-22c55e?style=for-the-badge)
+![Membros](https://img.shields.io/badge/Membros_Ativos-73-22c55e?style=for-the-badge)
 ![Bolsistas](https://img.shields.io/badge/Bolsistas-1-f97316?style=for-the-badge)
 ![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)
 ![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)
@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 28/04/2026 | Total: **75** apoiadores
+> 📅 Atualizado em: 29/04/2026 | Total: **74** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -40,7 +40,7 @@
 | Diocleciano Januário | Izabela Mendes Alves | Matheus Langendorf |
 | Rubens Henrique L. de Oliveira | William Costa e Silva |  |
 
-### 🥇 Ouro (12+ meses) — 28 membros
+### 🥇 Ouro (12+ meses) — 27 membros
 
 | | | |
 |---|---|---|
@@ -52,8 +52,7 @@
 | Leví Pereira Quissola | Luis Gustavo Assunção Carneiro | Marcos Guimarães Duarte Dias |
 | Marcos Vinícius Aquino Lopes | Moysés Naves de Moraes | Nathan Alves de Oliveira Framba |
 | Nicholas Islongo Canabarro | Pablo Jimenez Salces | Raniere Pereira de Paula |
-| Rayan Lima Fernandes | Sônia Kesserlingh | Thiago da Silva Oliveira |
-| Vinícius Duarte Arrigoni |  |  |
+| Rayan Lima Fernandes | Thiago da Silva Oliveira | Vinícius Duarte Arrigoni |
 
 ### 🥈 Prata (9+ meses) — 12 membros
 
