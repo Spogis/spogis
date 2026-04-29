@@ -2,7 +2,7 @@
 
 # 🏆 Apoiadores Oficiais — Titãs Casca Grossa Suprema
 
-![Membros](https://img.shields.io/badge/Membros_Ativos-75-22c55e?style=for-the-badge)
+![Membros](https://img.shields.io/badge/Membros_Ativos-74-22c55e?style=for-the-badge)
 ![Bolsistas](https://img.shields.io/badge/Bolsistas-1-f97316?style=for-the-badge)
 ![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)
 ![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)
@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 28/04/2026 | Total: **76** apoiadores
+> 📅 Atualizado em: 28/04/2026 | Total: **75** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -40,7 +40,7 @@
 | Diocleciano Januário | Izabela Mendes Alves | Matheus Langendorf |
 | Rubens Henrique L. de Oliveira | William Costa e Silva |  |
 
-### 🥇 Ouro (12+ meses) — 27 membros
+### 🥇 Ouro (12+ meses) — 28 membros
 
 | | | |
 |---|---|---|
@@ -52,9 +52,10 @@
 | Leví Pereira Quissola | Luis Gustavo Assunção Carneiro | Marcos Guimarães Duarte Dias |
 | Marcos Vinícius Aquino Lopes | Moysés Naves de Moraes | Nathan Alves de Oliveira Framba |
 | Nicholas Islongo Canabarro | Pablo Jimenez Salces | Raniere Pereira de Paula |
-| Rayan Lima Fernandes | Thiago da Silva Oliveira | Vinícius Duarte Arrigoni |
+| Rayan Lima Fernandes | Sônia Kesserlingh | Thiago da Silva Oliveira |
+| Vinícius Duarte Arrigoni |  |  |
 
-### 🥈 Prata (9+ meses) — 13 membros
+### 🥈 Prata (9+ meses) — 12 membros
 
 | | | |
 |---|---|---|
@@ -62,15 +63,14 @@
 | Diego dos Santos Simão | Ediane Sa Alves | Hubertt Kenned Elias Jr |
 | Luellen Pereira Rocha | Luiz Augusto da Cruz Meleiro | Luiz Guilherme Roquette Lopreato |
 | Mateus de Andrade Vasconcelos | Nathalia Wisniewski Siqueira | Philipe Vasconcellos da Silva |
-| Sônia Kesserlingh |  |  |
 
-### 🌟 Apoiador (6+ meses) — 9 membros
+### 🌟 Apoiador (6+ meses) — 8 membros
 
 | | | |
 |---|---|---|
 | Anderson Luiz Pereira | Gustavo dos Santos Cunha | João Lucas Lins Bomfim |
-| José Antônio Marques  | Lucas Rigolo Ortiz de Camargo  | Magnus Costa Miranda |
-| Márcio Justino de Melo | Thiago Francisco Ferreira | Tiago Domingues Figueiredo |
+| Lucas Rigolo Ortiz de Camargo  | Magnus Costa Miranda | Márcio Justino de Melo |
+| Thiago Francisco Ferreira | Tiago Domingues Figueiredo |  |
 
 ### 🔹 Novo apoiador — 17 membros
 
