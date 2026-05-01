@@ -2,7 +2,7 @@
 
 # 🏆 Apoiadores Oficiais — Titãs Casca Grossa Suprema
 
-![Membros](https://img.shields.io/badge/Membros_Ativos-73-22c55e?style=for-the-badge)
+![Membros](https://img.shields.io/badge/Membros_Ativos-74-22c55e?style=for-the-badge)
 ![Bolsistas](https://img.shields.io/badge/Bolsistas-1-f97316?style=for-the-badge)
 ![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)
 ![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)
@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 29/04/2026 | Total: **74** apoiadores
+> 📅 Atualizado em: 01/05/2026 | Total: **75** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -40,36 +40,37 @@
 | Diocleciano Januário | Izabela Mendes Alves | Matheus Langendorf |
 | Rubens Henrique L. de Oliveira | William Costa e Silva |  |
 
-### 🥇 Ouro (12+ meses) — 27 membros
+### 🥇 Ouro (12+ meses) — 29 membros
 
 | | | |
 |---|---|---|
-| Bruno Marcelo Corbalán Da Mota | Carlos Alexandre Moreira da Silva | Charles Dayan Farias de Jesus |
-| Cláudia Ferreira da Silva Lirio | Diener Volpin Ribeiro Fontoura | Dyenny Ellen Lima Lhamas  |
-| Eron Paulo Borges Filho | Fabiano Bisinella Scheufele | Fiama Cristina dos Reis |
-| Frankhil Contreras Salgado | Gabriel Hernandez Rozo | Hugo Valença |
-| Isabela Dalmolin Battistella | Isaias Surgek De Almeida  | João Manoel Folador Rodriguez |
-| Leví Pereira Quissola | Luis Gustavo Assunção Carneiro | Marcos Guimarães Duarte Dias |
-| Marcos Vinícius Aquino Lopes | Moysés Naves de Moraes | Nathan Alves de Oliveira Framba |
-| Nicholas Islongo Canabarro | Pablo Jimenez Salces | Raniere Pereira de Paula |
-| Rayan Lima Fernandes | Thiago da Silva Oliveira | Vinícius Duarte Arrigoni |
+| Alfredo Vitali | Bruno Marcelo Corbalán Da Mota | Carlos Alexandre Moreira da Silva |
+| Charles Dayan Farias de Jesus | Cláudia Ferreira da Silva Lirio | Diener Volpin Ribeiro Fontoura |
+| Dyenny Ellen Lima Lhamas  | Eron Paulo Borges Filho | Fabiano Bisinella Scheufele |
+| Fiama Cristina dos Reis | Frankhil Contreras Salgado | Gabriel Hernandez Rozo |
+| Hugo Valença | Isabela Dalmolin Battistella | Isaias Surgek De Almeida  |
+| João Manoel Folador Rodriguez | Leví Pereira Quissola | Luis Gustavo Assunção Carneiro |
+| Luiz Augusto da Cruz Meleiro | Marcos Guimarães Duarte Dias | Marcos Vinícius Aquino Lopes |
+| Moysés Naves de Moraes | Nathan Alves de Oliveira Framba | Nicholas Islongo Canabarro |
+| Pablo Jimenez Salces | Raniere Pereira de Paula | Rayan Lima Fernandes |
+| Thiago da Silva Oliveira | Vinícius Duarte Arrigoni |  |
 
-### 🥈 Prata (9+ meses) — 12 membros
+### 🥈 Prata (9+ meses) — 10 membros
 
 | | | |
 |---|---|---|
-| Alfredo Vitali | Antônio Possidônio de Mendonça Junior | Carlos Rodrigues Paiva |
-| Diego dos Santos Simão | Ediane Sa Alves | Hubertt Kenned Elias Jr |
-| Luellen Pereira Rocha | Luiz Augusto da Cruz Meleiro | Luiz Guilherme Roquette Lopreato |
-| Mateus de Andrade Vasconcelos | Nathalia Wisniewski Siqueira | Philipe Vasconcellos da Silva |
+| Antônio Possidônio de Mendonça Junior | Carlos Rodrigues Paiva | Diego dos Santos Simão |
+| Ediane Sa Alves | Hubertt Kenned Elias Jr | Luellen Pereira Rocha |
+| Luiz Guilherme Roquette Lopreato | Mateus de Andrade Vasconcelos | Nathalia Wisniewski Siqueira |
+| Philipe Vasconcellos da Silva |  |  |
 
-### 🌟 Apoiador (6+ meses) — 8 membros
+### 🌟 Apoiador (6+ meses) — 9 membros
 
 | | | |
 |---|---|---|
 | Anderson Luiz Pereira | Gustavo dos Santos Cunha | João Lucas Lins Bomfim |
-| Lucas Rigolo Ortiz de Camargo  | Magnus Costa Miranda | Márcio Justino de Melo |
-| Thiago Francisco Ferreira | Tiago Domingues Figueiredo |  |
+| José Antônio Marques  | Lucas Rigolo Ortiz de Camargo  | Magnus Costa Miranda |
+| Márcio Justino de Melo | Thiago Francisco Ferreira | Tiago Domingues Figueiredo |
 
 ### 🔹 Novo apoiador — 17 membros
 
