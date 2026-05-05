@@ -2,7 +2,7 @@
 
 # 🏆 Apoiadores Oficiais — Titãs Casca Grossa Suprema
 
-![Membros](https://img.shields.io/badge/Membros_Ativos-74-22c55e?style=for-the-badge)
+![Membros](https://img.shields.io/badge/Membros_Ativos-73-22c55e?style=for-the-badge)
 ![Bolsistas](https://img.shields.io/badge/Bolsistas-1-f97316?style=for-the-badge)
 ![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)
 ![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)
@@ -24,14 +24,13 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 01/05/2026 | Total: **75** apoiadores
+> 📅 Atualizado em: 05/05/2026 | Total: **74** apoiadores
 
-### 💎 Elite (36+ meses) — 4 membros
+### 💎 Elite (36+ meses) — 3 membros
 
 | | | |
 |---|---|---|
-| Daniel Wagner Oliveira de Medeiros | Fernando Fernandes Vieira  | Fernando Miguel de Amorim Lino |
-| Gabriel Luciano Borges de Carvalho |  |  |
+| Daniel Wagner Oliveira de Medeiros | Fernando Fernandes Vieira  | Gabriel Luciano Borges de Carvalho |
 
 ### 🚀 Super Longevity (24+ meses) — 5 membros
 
@@ -40,7 +39,7 @@
 | Diocleciano Januário | Izabela Mendes Alves | Matheus Langendorf |
 | Rubens Henrique L. de Oliveira | William Costa e Silva |  |
 
-### 🥇 Ouro (12+ meses) — 29 membros
+### 🥇 Ouro (12+ meses) — 30 membros
 
 | | | |
 |---|---|---|
@@ -49,20 +48,19 @@
 | Dyenny Ellen Lima Lhamas  | Eron Paulo Borges Filho | Fabiano Bisinella Scheufele |
 | Fiama Cristina dos Reis | Frankhil Contreras Salgado | Gabriel Hernandez Rozo |
 | Hugo Valença | Isabela Dalmolin Battistella | Isaias Surgek De Almeida  |
-| João Manoel Folador Rodriguez | Leví Pereira Quissola | Luis Gustavo Assunção Carneiro |
-| Luiz Augusto da Cruz Meleiro | Marcos Guimarães Duarte Dias | Marcos Vinícius Aquino Lopes |
-| Moysés Naves de Moraes | Nathan Alves de Oliveira Framba | Nicholas Islongo Canabarro |
-| Pablo Jimenez Salces | Raniere Pereira de Paula | Rayan Lima Fernandes |
-| Thiago da Silva Oliveira | Vinícius Duarte Arrigoni |  |
+| João Manoel Folador Rodriguez | Leví Pereira Quissola | Luellen Pereira Rocha |
+| Luis Gustavo Assunção Carneiro | Luiz Augusto da Cruz Meleiro | Marcos Guimarães Duarte Dias |
+| Marcos Vinícius Aquino Lopes | Moysés Naves de Moraes | Nathan Alves de Oliveira Framba |
+| Nicholas Islongo Canabarro | Pablo Jimenez Salces | Raniere Pereira de Paula |
+| Rayan Lima Fernandes | Thiago da Silva Oliveira | Vinícius Duarte Arrigoni |
 
-### 🥈 Prata (9+ meses) — 10 membros
+### 🥈 Prata (9+ meses) — 9 membros
 
 | | | |
 |---|---|---|
 | Antônio Possidônio de Mendonça Junior | Carlos Rodrigues Paiva | Diego dos Santos Simão |
-| Ediane Sa Alves | Hubertt Kenned Elias Jr | Luellen Pereira Rocha |
-| Luiz Guilherme Roquette Lopreato | Mateus de Andrade Vasconcelos | Nathalia Wisniewski Siqueira |
-| Philipe Vasconcellos da Silva |  |  |
+| Ediane Sa Alves | Hubertt Kenned Elias Jr | Luiz Guilherme Roquette Lopreato |
+| Mateus de Andrade Vasconcelos | Nathalia Wisniewski Siqueira | Philipe Vasconcellos da Silva |
 
 ### 🌟 Apoiador (6+ meses) — 9 membros
 
