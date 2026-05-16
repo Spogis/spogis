@@ -40,49 +40,49 @@
 | Diocleciano Januário | Izabela Mendes Alves | Matheus Langendorf |
 | Rubens Henrique L. de Oliveira | William Costa e Silva |  |
 
-### 🥇 Ouro (12+ meses) — 33 membros
+### 🥇 Ouro (12+ meses) — 34 membros
 
 | | | |
 |---|---|---|
 | Alfredo Vitali | Bruno Marcelo Corbalán Da Mota | Carlos Alexandre Moreira da Silva |
 | Charles Dayan Farias de Jesus | Cláudia Ferreira da Silva Lirio | Diener Volpin Ribeiro Fontoura |
-| Dyenny Ellen Lima Lhamas  | Eron Paulo Borges Filho | Fabiano Bisinella Scheufele |
-| Fiama Cristina dos Reis | Frankhil Contreras Salgado | Gabriel Hernandez Rozo |
-| Hugo Valença | Isabela Dalmolin Battistella | Isaias Surgek De Almeida  |
-| João Manoel Folador Rodriguez | Leví Pereira Quissola | Luellen Pereira Rocha |
-| Luis Gustavo Assunção Carneiro | Luiz Augusto da Cruz Meleiro | Marcos Guimarães Duarte Dias |
-| Marcos Vinícius Aquino Lopes | Mateus de Andrade Vasconcelos | Moysés Naves de Moraes |
-| Nathalia Wisniewski Siqueira | Nathan Alves de Oliveira Framba | Nicholas Islongo Canabarro |
-| Pablo Jimenez Salces | Raniere Pereira de Paula | Rayan Lima Fernandes |
-| Sônia Kesserlingh | Thiago da Silva Oliveira | Vinícius Duarte Arrigoni |
+| Dyenny Ellen Lima Lhamas  | Ediane Sa Alves | Eron Paulo Borges Filho |
+| Fabiano Bisinella Scheufele | Fiama Cristina dos Reis | Frankhil Contreras Salgado |
+| Gabriel Hernandez Rozo | Hugo Valença | Isabela Dalmolin Battistella |
+| Isaias Surgek De Almeida  | João Manoel Folador Rodriguez | Leví Pereira Quissola |
+| Luellen Pereira Rocha | Luis Gustavo Assunção Carneiro | Luiz Augusto da Cruz Meleiro |
+| Marcos Guimarães Duarte Dias | Marcos Vinícius Aquino Lopes | Mateus de Andrade Vasconcelos |
+| Moysés Naves de Moraes | Nathalia Wisniewski Siqueira | Nathan Alves de Oliveira Framba |
+| Nicholas Islongo Canabarro | Pablo Jimenez Salces | Raniere Pereira de Paula |
+| Rayan Lima Fernandes | Sônia Kesserlingh | Thiago da Silva Oliveira |
+| Vinícius Duarte Arrigoni |  |  |
 
-### 🥈 Prata (9+ meses) — 8 membros
+### 🥈 Prata (9+ meses) — 7 membros
 
 | | | |
 |---|---|---|
 | Antônio Possidônio de Mendonça Junior | Carlos Rodrigues Paiva | Diego dos Santos Simão |
-| Ediane Sa Alves | Hubertt Kenned Elias Jr | Lucas Rigolo Ortiz de Camargo  |
-| Luiz Guilherme Roquette Lopreato | Philipe Vasconcellos da Silva |  |
+| Hubertt Kenned Elias Jr | Lucas Rigolo Ortiz de Camargo  | Luiz Guilherme Roquette Lopreato |
+| Philipe Vasconcellos da Silva |  |  |
 
-### 🌟 Apoiador (6+ meses) — 8 membros
+### 🌟 Apoiador (6+ meses) — 9 membros
 
 | | | |
 |---|---|---|
-| Anderson Luiz Pereira | Gustavo dos Santos Cunha | João Lucas Lins Bomfim |
-| José Antônio Marques  | Magnus Costa Miranda | Márcio Justino de Melo |
-| Thiago Francisco Ferreira | Tiago Domingues Figueiredo |  |
+| Anderson Luiz Pereira | Franco Sciolla Ferrari | Gustavo dos Santos Cunha |
+| João Lucas Lins Bomfim | José Antônio Marques  | Magnus Costa Miranda |
+| Márcio Justino de Melo | Thiago Francisco Ferreira | Tiago Domingues Figueiredo |
 
-### 🔹 Novo apoiador — 19 membros
+### 🔹 Novo apoiador — 18 membros
 
 | | | |
 |---|---|---|
 | Ariel Toledo Goulart de Assis | Daniel Rodrigues de Oliveira da Costa | Fernando Barbosa de Sousa Nogueira |
-| Franco Sciolla Ferrari | Ícaro Vinícius de Souza Juvenal | João Paulo Martins Laudares dos Santos |
-| João Rui Barbosa de Alencar | Julio Pansiere Zavarise | Maria Eduarda Alves Barnabé |
-| Michelle Ayres de Campos Pinto | Pedro Monteiro de Oliveira | Tiago Silva Marques |
-| Matheus Luiz D Imperio Donini | Matheus Feliciano Barros Gomes | Andrea Valsasina |
-| Vinícius Santos | Edilton Nunes | ADMILSON LOPES VIEIRA |
-| Daniel Parenti Bicalho |  |  |
+| Ícaro Vinícius de Souza Juvenal | João Paulo Martins Laudares dos Santos | João Rui Barbosa de Alencar |
+| Julio Pansiere Zavarise | Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto |
+| Pedro Monteiro de Oliveira | Tiago Silva Marques | Matheus Luiz D Imperio Donini |
+| Matheus Feliciano Barros Gomes | Andrea Valsasina | Vinícius Santos |
+| Edilton Nunes | ADMILSON LOPES VIEIRA | Daniel Parenti Bicalho |
 
 ### 🎓 Bolsistas — 1 membro
 
