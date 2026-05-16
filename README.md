@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 12/05/2026 | Total: **78** apoiadores
+> 📅 Atualizado em: 16/05/2026 | Total: **78** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
