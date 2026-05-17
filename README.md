@@ -2,7 +2,7 @@
 
 # 🏆 Apoiadores Oficiais — Titãs Casca Grossa Suprema
 
-![Membros](https://img.shields.io/badge/Membros_Ativos-77-22c55e?style=for-the-badge)
+![Membros](https://img.shields.io/badge/Membros_Ativos-80-22c55e?style=for-the-badge)
 ![Bolsistas](https://img.shields.io/badge/Bolsistas-1-f97316?style=for-the-badge)
 ![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)
 ![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)
@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 17/05/2026 | Total: **78** apoiadores
+> 📅 Atualizado em: 17/05/2026 | Total: **81** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -40,7 +40,7 @@
 | Diocleciano Januário | Izabela Mendes Alves | Matheus Langendorf |
 | Rubens Henrique L. de Oliveira | William Costa e Silva |  |
 
-### 🥇 Ouro (12+ meses) — 33 membros
+### 🥇 Ouro (12+ meses) — 34 membros
 
 | | | |
 |---|---|---|
@@ -51,10 +51,11 @@
 | Gabriel Hernandez Rozo | Hugo Valença | Isabela Dalmolin Battistella |
 | Isaias Surgek De Almeida  | João Manoel Folador Rodriguez | Leví Pereira Quissola |
 | Luellen Pereira Rocha | Luis Gustavo Assunção Carneiro | Luiz Augusto da Cruz Meleiro |
-| Marcos Guimarães Duarte Dias | Mateus de Andrade Vasconcelos | Moysés Naves de Moraes |
-| Nathalia Wisniewski Siqueira | Nathan Alves de Oliveira Framba | Nicholas Islongo Canabarro |
-| Pablo Jimenez Salces | Raniere Pereira de Paula | Rayan Lima Fernandes |
-| Sônia Kesserlingh | Thiago da Silva Oliveira | Vinícius Duarte Arrigoni |
+| Marcos Guimarães Duarte Dias | Marcos Vinícius Aquino Lopes | Mateus de Andrade Vasconcelos |
+| Moysés Naves de Moraes | Nathalia Wisniewski Siqueira | Nathan Alves de Oliveira Framba |
+| Nicholas Islongo Canabarro | Pablo Jimenez Salces | Raniere Pereira de Paula |
+| Rayan Lima Fernandes | Sônia Kesserlingh | Thiago da Silva Oliveira |
+| Vinícius Duarte Arrigoni |  |  |
 
 ### 🥈 Prata (9+ meses) — 7 membros
 
@@ -72,7 +73,7 @@
 | João Lucas Lins Bomfim | José Antônio Marques  | Magnus Costa Miranda |
 | Márcio Justino de Melo | Thiago Francisco Ferreira | Tiago Domingues Figueiredo |
 
-### 🔹 Novo apoiador — 19 membros
+### 🔹 Novo apoiador — 21 membros
 
 | | | |
 |---|---|---|
@@ -82,7 +83,7 @@
 | Pedro Monteiro de Oliveira | Tiago Silva Marques | Matheus Luiz D Imperio Donini |
 | Matheus Feliciano Barros Gomes | Andrea Valsasina | Vinícius Santos |
 | Edilton Nunes | ADMILSON LOPES VIEIRA | Daniel Parenti Bicalho |
-| Ângelo Lucas |  |  |
+| Ângelo Lucas | LV | Nathalia Sanches |
 
 ### 🎓 Bolsistas — 1 membro
 
