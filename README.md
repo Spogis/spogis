@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 21/05/2026 | Total: **83** apoiadores
+> 📅 Atualizado em: 22/05/2026 | Total: **83** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -81,10 +81,10 @@
 | Ícaro Vinícius de Souza Juvenal | João Paulo Martins Laudares dos Santos | João Rui Barbosa de Alencar |
 | Julio Pansiere Zavarise | Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto |
 | Pedro Monteiro de Oliveira | Tiago Silva Marques | Matheus Luiz D Imperio Donini |
-| Matheus Feliciano Barros Gomes | Andrea Valsasina | Vinícius Santos |
-| Edilton Nunes | ADMILSON LOPES VIEIRA | Daniel Parenti Bicalho |
-| Ângelo Lucas Silveira Castro | LV | Nathalia Sanches |
-| Léo d'Avila Bisi Guimarães |  |  |
+| Matheus Feliciano Barros Gomes | Andrea Valsasina | Edilton Nunes |
+| ADMILSON LOPES VIEIRA | Daniel Parenti Bicalho | Ângelo Lucas Silveira Castro |
+| LV | Nathalia Sanches | Léo d'Avila Bisi Guimarães |
+| Samuel |  |  |
 
 ### 🎓 Bolsistas — 1 membro
 
