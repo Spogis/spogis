@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 13/06/2026 | Total: **84** apoiadores
+> 📅 Atualizado em: 16/06/2026 | Total: **84** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -66,25 +66,26 @@
 | Diego dos Santos Simão | Lucas Rigolo Ortiz de Camargo  | Luiz Guilherme Roquette Lopreato |
 | Philipe Vasconcellos da Silva | Thiago Francisco Ferreira |  |
 
-### 🌟 Apoiador (6+ meses) — 9 membros
+### 🌟 Apoiador (6+ meses) — 10 membros
 
 | | | |
 |---|---|---|
 | Franco Sciolla Ferrari | Gustavo dos Santos Cunha | Ícaro Vinícius de Souza Juvenal |
 | João Lucas Lins Bomfim | João Rui Barbosa de Alencar | José Antônio Marques  |
-| Magnus Costa Miranda | Márcio Justino de Melo | Tiago Domingues Figueiredo |
+| Julio Pansiere Zavarise | Magnus Costa Miranda | Márcio Justino de Melo |
+| Tiago Domingues Figueiredo |  |  |
 
-### 🔹 Novo apoiador — 21 membros
+### 🔹 Novo apoiador — 20 membros
 
 | | | |
 |---|---|---|
-| Ariel Toledo Goulart de Assis | Daniel Rodrigues de Oliveira da Costa | João Paulo Martins Laudares dos Santos |
-| Julio Pansiere Zavarise | Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto |
-| Pedro Monteiro de Oliveira | Tiago Silva Marques | Matheus Luiz D Imperio Donini |
-| Matheus Feliciano Barros Gomes | Andrea Valsasina | Edilton Nunes |
-| ADMILSON LOPES VIEIRA | Daniel Parenti Bicalho | Ângelo Lucas Silveira Castro |
-| LV | Nathalia Sanches | Léo d'Avila Bisi Guimarães |
-| Samuel | Gisele Garducci | Lucas Pontes Leal |
+| Daniel Rodrigues de Oliveira da Costa | João Paulo Martins Laudares dos Santos | Maria Eduarda Alves Barnabé |
+| Michelle Ayres de Campos Pinto | Pedro Monteiro de Oliveira | Tiago Silva Marques |
+| Matheus Luiz D Imperio Donini | Matheus Feliciano Barros Gomes | Andrea Valsasina |
+| Edilton Nunes | ADMILSON LOPES VIEIRA | Daniel Parenti Bicalho |
+| Ângelo Lucas Silveira Castro | LV | Nathalia Sanches |
+| Léo d'Avila Bisi Guimarães | Samuel | Gisele Garducci |
+| Lucas Pontes Leal | Chemical Engineering Education |  |
 
 ### 🎓 Bolsistas — 1 membro
 
