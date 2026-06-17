@@ -2,7 +2,7 @@
 
 # 🏆 Apoiadores Oficiais — Titãs Casca Grossa Suprema
 
-![Membros](https://img.shields.io/badge/Membros_Ativos-83-22c55e?style=for-the-badge)
+![Membros](https://img.shields.io/badge/Membros_Ativos-84-22c55e?style=for-the-badge)
 ![Bolsistas](https://img.shields.io/badge/Bolsistas-1-f97316?style=for-the-badge)
 ![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)
 ![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)
@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 16/06/2026 | Total: **84** apoiadores
+> 📅 Atualizado em: 17/06/2026 | Total: **85** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -66,21 +66,21 @@
 | Diego dos Santos Simão | Lucas Rigolo Ortiz de Camargo  | Luiz Guilherme Roquette Lopreato |
 | Philipe Vasconcellos da Silva | Thiago Francisco Ferreira |  |
 
-### 🌟 Apoiador (6+ meses) — 10 membros
+### 🌟 Apoiador (6+ meses) — 11 membros
 
 | | | |
 |---|---|---|
 | Franco Sciolla Ferrari | Gustavo dos Santos Cunha | Ícaro Vinícius de Souza Juvenal |
 | João Lucas Lins Bomfim | João Rui Barbosa de Alencar | José Antônio Marques  |
 | Julio Pansiere Zavarise | Magnus Costa Miranda | Márcio Justino de Melo |
-| Tiago Domingues Figueiredo |  |  |
+| Tiago Domingues Figueiredo | Tiago Silva Marques |  |
 
 ### 🔹 Novo apoiador — 20 membros
 
 | | | |
 |---|---|---|
-| Daniel Rodrigues de Oliveira da Costa | João Paulo Martins Laudares dos Santos | Maria Eduarda Alves Barnabé |
-| Michelle Ayres de Campos Pinto | Pedro Monteiro de Oliveira | Tiago Silva Marques |
+| Ariel Toledo Goulart de Assis | Daniel Rodrigues de Oliveira da Costa | João Paulo Martins Laudares dos Santos |
+| Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto | Pedro Monteiro de Oliveira |
 | Matheus Luiz D Imperio Donini | Matheus Feliciano Barros Gomes | Andrea Valsasina |
 | Edilton Nunes | ADMILSON LOPES VIEIRA | Daniel Parenti Bicalho |
 | Ângelo Lucas Silveira Castro | LV | Nathalia Sanches |
