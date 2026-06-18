@@ -2,7 +2,7 @@
 
 # 🏆 Apoiadores Oficiais — Titãs Casca Grossa Suprema
 
-![Membros](https://img.shields.io/badge/Membros_Ativos-84-22c55e?style=for-the-badge)
+![Membros](https://img.shields.io/badge/Membros_Ativos-82-22c55e?style=for-the-badge)
 ![Bolsistas](https://img.shields.io/badge/Bolsistas-1-f97316?style=for-the-badge)
 ![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)
 ![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)
@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 17/06/2026 | Total: **85** apoiadores
+> 📅 Atualizado em: 18/06/2026 | Total: **83** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -75,7 +75,7 @@
 | Julio Pansiere Zavarise | Magnus Costa Miranda | Márcio Justino de Melo |
 | Tiago Domingues Figueiredo | Tiago Silva Marques |  |
 
-### 🔹 Novo apoiador — 20 membros
+### 🔹 Novo apoiador — 18 membros
 
 | | | |
 |---|---|---|
@@ -83,9 +83,8 @@
 | Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto | Pedro Monteiro de Oliveira |
 | Matheus Luiz D Imperio Donini | Matheus Feliciano Barros Gomes | Andrea Valsasina |
 | Edilton Nunes | ADMILSON LOPES VIEIRA | Daniel Parenti Bicalho |
-| Ângelo Lucas Silveira Castro | LV | Nathalia Sanches |
-| Léo d'Avila Bisi Guimarães | Samuel | Gisele Garducci |
-| Lucas Pontes Leal | Chemical Engineering Education |  |
+| Ângelo Lucas Silveira Castro | Léo d'Avila Bisi Guimarães | Samuel |
+| Gisele Garducci | Lucas Pontes Leal | Chemical Engineering Education |
 
 ### 🎓 Bolsistas — 1 membro
 
