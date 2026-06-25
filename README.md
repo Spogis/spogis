@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 24/06/2026 | Total: **82** apoiadores
+> 📅 Atualizado em: 25/06/2026 | Total: **82** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -57,13 +57,13 @@
 | Pablo Jimenez Salces | Rayan Lima Fernandes | Sônia Kesserlingh |
 | Thiago da Silva Oliveira | Vinícius Duarte Arrigoni | Odnei Cesar Macalossi |
 
-### 🥈 Prata (9+ meses) — 8 membros
+### 🥈 Prata (9+ meses) — 7 membros
 
 | | | |
 |---|---|---|
-| Anderson Luiz Pereira | Antônio Possidônio de Mendonça Junior | Carlos Rodrigues Paiva |
-| Diego dos Santos Simão | Lucas Rigolo Ortiz de Camargo  | Luiz Guilherme Roquette Lopreato |
-| Philipe Vasconcellos da Silva | Thiago Francisco Ferreira |  |
+| Anderson Luiz Pereira | Carlos Rodrigues Paiva | Diego dos Santos Simão |
+| Lucas Rigolo Ortiz de Camargo  | Luiz Guilherme Roquette Lopreato | Philipe Vasconcellos da Silva |
+| Thiago Francisco Ferreira |  |  |
 
 ### 🌟 Apoiador (6+ meses) — 12 membros
 
@@ -74,7 +74,7 @@
 | José Antônio Marques  | Julio Pansiere Zavarise | Magnus Costa Miranda |
 | Márcio Justino de Melo | Tiago Domingues Figueiredo | Tiago Silva Marques |
 
-### 🔹 Novo apoiador — 16 membros
+### 🔹 Novo apoiador — 17 membros
 
 | | | |
 |---|---|---|
@@ -83,7 +83,7 @@
 | Matheus Feliciano Barros Gomes | Andrea Valsasina | Edilton Nunes |
 | ADMILSON LOPES VIEIRA | Daniel Parenti Bicalho | Ângelo Lucas Silveira Castro |
 | Samuel | Gisele Garducci | Lucas Pontes Leal |
-| Chemical Engineering Education |  |  |
+| Chemical Engineering Education | João Vitor de Souza Paz |  |
 
 ### 🎓 Bolsistas — 1 membro
 
