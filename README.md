@@ -2,7 +2,7 @@
 
 # 🏆 Apoiadores Oficiais — Titãs Casca Grossa Suprema
 
-![Membros](https://img.shields.io/badge/Membros_Ativos-81-22c55e?style=for-the-badge)
+![Membros](https://img.shields.io/badge/Membros_Ativos-79-22c55e?style=for-the-badge)
 ![Bolsistas](https://img.shields.io/badge/Bolsistas-1-f97316?style=for-the-badge)
 ![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)
 ![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)
@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 25/06/2026 | Total: **82** apoiadores
+> 📅 Atualizado em: 14/07/2026 | Total: **80** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -33,57 +33,58 @@
 | Daniel Wagner Oliveira de Medeiros | Fernando Fernandes Vieira  | Fernando Miguel de Amorim Lino |
 | Gabriel Luciano Borges de Carvalho |  |  |
 
-### 🚀 Super Longevity (24+ meses) — 14 membros
+### 🚀 Super Longevity (24+ meses) — 20 membros
 
 | | | |
 |---|---|---|
-| Bruno Marcelo Corbalán Da Mota | Cláudia Ferreira da Silva Lirio | Diocleciano Januário |
-| Eron Paulo Borges Filho | Fabiano Bisinella Scheufele | Isabela Dalmolin Battistella |
-| Izabela Mendes Alves | Luis Gustavo Assunção Carneiro | Marcos Guimarães Duarte Dias |
-| Matheus Langendorf | Nicholas Islongo Canabarro | Raniere Pereira de Paula |
-| Rubens Henrique L. de Oliveira | William Costa e Silva |  |
+| Bruno Marcelo Corbalán Da Mota | Carlos Alexandre Moreira da Silva | Cláudia Ferreira da Silva Lirio |
+| Diener Volpin Ribeiro Fontoura | Diocleciano Januário | Dyenny Ellen Lima Lhamas  |
+| Eron Paulo Borges Filho | Fabiano Bisinella Scheufele | Hugo Valença |
+| Isabela Dalmolin Battistella | Izabela Mendes Alves | Luis Gustavo Assunção Carneiro |
+| Marcos Guimarães Duarte Dias | Matheus Langendorf | Nicholas Islongo Canabarro |
+| Raniere Pereira de Paula | Rayan Lima Fernandes | Rubens Henrique L. de Oliveira |
+| Vinícius Duarte Arrigoni | William Costa e Silva |  |
 
-### 🥇 Ouro (12+ meses) — 27 membros
-
-| | | |
-|---|---|---|
-| Alfredo Vitali | Carlos Alexandre Moreira da Silva | Charles Dayan Farias de Jesus |
-| Diener Volpin Ribeiro Fontoura | Dyenny Ellen Lima Lhamas  | Ediane Sa Alves |
-| Fiama Cristina dos Reis | Frankhil Contreras Salgado | Gabriel Hernandez Rozo |
-| Hubertt Kenned Elias Jr | Hugo Valença | Isaias Surgek De Almeida  |
-| João Manoel Folador Rodriguez | Leví Pereira Quissola | Luellen Pereira Rocha |
-| Luiz Augusto da Cruz Meleiro | Marcos Vinícius Aquino Lopes | Mateus de Andrade Vasconcelos |
-| Moysés Naves de Moraes | Nathalia Wisniewski Siqueira | Nathan Alves de Oliveira Framba |
-| Pablo Jimenez Salces | Rayan Lima Fernandes | Sônia Kesserlingh |
-| Thiago da Silva Oliveira | Vinícius Duarte Arrigoni | Odnei Cesar Macalossi |
-
-### 🥈 Prata (9+ meses) — 7 membros
+### 🥇 Ouro (12+ meses) — 25 membros
 
 | | | |
 |---|---|---|
-| Anderson Luiz Pereira | Carlos Rodrigues Paiva | Diego dos Santos Simão |
-| Lucas Rigolo Ortiz de Camargo  | Luiz Guilherme Roquette Lopreato | Philipe Vasconcellos da Silva |
+| Alfredo Vitali | Carlos Rodrigues Paiva | Charles Dayan Farias de Jesus |
+| Diego dos Santos Simão | Ediane Sa Alves | Fiama Cristina dos Reis |
+| Frankhil Contreras Salgado | Gabriel Hernandez Rozo | Hubertt Kenned Elias Jr |
+| Isaias Surgek De Almeida  | João Manoel Folador Rodriguez | Leví Pereira Quissola |
+| Luellen Pereira Rocha | Luiz Augusto da Cruz Meleiro | Luiz Guilherme Roquette Lopreato |
+| Marcos Vinícius Aquino Lopes | Mateus de Andrade Vasconcelos | Moysés Naves de Moraes |
+| Nathalia Wisniewski Siqueira | Nathan Alves de Oliveira Framba | Pablo Jimenez Salces |
+| Philipe Vasconcellos da Silva | Sônia Kesserlingh | Thiago da Silva Oliveira |
+| Odnei Cesar Macalossi |  |  |
+
+### 🥈 Prata (9+ meses) — 4 membros
+
+| | | |
+|---|---|---|
+| Anderson Luiz Pereira | João Lucas Lins Bomfim | Lucas Rigolo Ortiz de Camargo  |
 | Thiago Francisco Ferreira |  |  |
 
-### 🌟 Apoiador (6+ meses) — 12 membros
+### 🌟 Apoiador (6+ meses) — 13 membros
 
 | | | |
 |---|---|---|
 | Daniel Rodrigues de Oliveira da Costa | Franco Sciolla Ferrari | Gustavo dos Santos Cunha |
-| Ícaro Vinícius de Souza Juvenal | João Lucas Lins Bomfim | João Rui Barbosa de Alencar |
+| Ícaro Vinícius de Souza Juvenal | João Paulo Martins Laudares dos Santos | João Rui Barbosa de Alencar |
 | José Antônio Marques  | Julio Pansiere Zavarise | Magnus Costa Miranda |
-| Márcio Justino de Melo | Tiago Domingues Figueiredo | Tiago Silva Marques |
+| Márcio Justino de Melo | Pedro Monteiro de Oliveira | Tiago Domingues Figueiredo |
+| Tiago Silva Marques |  |  |
 
-### 🔹 Novo apoiador — 17 membros
+### 🔹 Novo apoiador — 13 membros
 
 | | | |
 |---|---|---|
-| Ariel Toledo Goulart de Assis | João Paulo Martins Laudares dos Santos | Maria Eduarda Alves Barnabé |
-| Michelle Ayres de Campos Pinto | Pedro Monteiro de Oliveira | Matheus Luiz D Imperio Donini |
-| Matheus Feliciano Barros Gomes | Andrea Valsasina | Edilton Nunes |
+| Ariel Toledo Goulart de Assis | Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto |
+| Matheus Luiz D Imperio Donini | Matheus Feliciano Barros Gomes | Edilton Nunes |
 | ADMILSON LOPES VIEIRA | Daniel Parenti Bicalho | Ângelo Lucas Silveira Castro |
 | Samuel | Gisele Garducci | Lucas Pontes Leal |
-| Chemical Engineering Education | João Vitor de Souza Paz |  |
+| João Vitor de Souza Paz |  |  |
 
 ### 🎓 Bolsistas — 1 membro
 
