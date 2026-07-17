@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 14/07/2026 | Total: **80** apoiadores
+> 📅 Atualizado em: 17/07/2026 | Total: **80** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -33,7 +33,7 @@
 | Daniel Wagner Oliveira de Medeiros | Fernando Fernandes Vieira  | Fernando Miguel de Amorim Lino |
 | Gabriel Luciano Borges de Carvalho |  |  |
 
-### 🚀 Super Longevity (24+ meses) — 20 membros
+### 🚀 Super Longevity (24+ meses) — 21 membros
 
 | | | |
 |---|---|---|
@@ -42,10 +42,10 @@
 | Eron Paulo Borges Filho | Fabiano Bisinella Scheufele | Hugo Valença |
 | Isabela Dalmolin Battistella | Izabela Mendes Alves | Luis Gustavo Assunção Carneiro |
 | Marcos Guimarães Duarte Dias | Matheus Langendorf | Nicholas Islongo Canabarro |
-| Raniere Pereira de Paula | Rayan Lima Fernandes | Rubens Henrique L. de Oliveira |
-| Vinícius Duarte Arrigoni | William Costa e Silva |  |
+| Pablo Jimenez Salces | Raniere Pereira de Paula | Rayan Lima Fernandes |
+| Rubens Henrique L. de Oliveira | Vinícius Duarte Arrigoni | William Costa e Silva |
 
-### 🥇 Ouro (12+ meses) — 25 membros
+### 🥇 Ouro (12+ meses) — 24 membros
 
 | | | |
 |---|---|---|
@@ -55,36 +55,34 @@
 | Isaias Surgek De Almeida  | João Manoel Folador Rodriguez | Leví Pereira Quissola |
 | Luellen Pereira Rocha | Luiz Augusto da Cruz Meleiro | Luiz Guilherme Roquette Lopreato |
 | Marcos Vinícius Aquino Lopes | Mateus de Andrade Vasconcelos | Moysés Naves de Moraes |
-| Nathalia Wisniewski Siqueira | Nathan Alves de Oliveira Framba | Pablo Jimenez Salces |
-| Philipe Vasconcellos da Silva | Sônia Kesserlingh | Thiago da Silva Oliveira |
-| Odnei Cesar Macalossi |  |  |
+| Nathalia Wisniewski Siqueira | Nathan Alves de Oliveira Framba | Philipe Vasconcellos da Silva |
+| Sônia Kesserlingh | Thiago da Silva Oliveira | Odnei Cesar Macalossi |
 
-### 🥈 Prata (9+ meses) — 4 membros
+### 🥈 Prata (9+ meses) — 5 membros
 
 | | | |
 |---|---|---|
 | Anderson Luiz Pereira | João Lucas Lins Bomfim | Lucas Rigolo Ortiz de Camargo  |
-| Thiago Francisco Ferreira |  |  |
+| Magnus Costa Miranda | Thiago Francisco Ferreira |  |
 
-### 🌟 Apoiador (6+ meses) — 13 membros
+### 🌟 Apoiador (6+ meses) — 12 membros
 
 | | | |
 |---|---|---|
 | Daniel Rodrigues de Oliveira da Costa | Franco Sciolla Ferrari | Gustavo dos Santos Cunha |
 | Ícaro Vinícius de Souza Juvenal | João Paulo Martins Laudares dos Santos | João Rui Barbosa de Alencar |
-| José Antônio Marques  | Julio Pansiere Zavarise | Magnus Costa Miranda |
-| Márcio Justino de Melo | Pedro Monteiro de Oliveira | Tiago Domingues Figueiredo |
-| Tiago Silva Marques |  |  |
+| José Antônio Marques  | Julio Pansiere Zavarise | Márcio Justino de Melo |
+| Pedro Monteiro de Oliveira | Tiago Domingues Figueiredo | Tiago Silva Marques |
 
 ### 🔹 Novo apoiador — 13 membros
 
 | | | |
 |---|---|---|
-| Ariel Toledo Goulart de Assis | Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto |
-| Matheus Luiz D Imperio Donini | Matheus Feliciano Barros Gomes | Edilton Nunes |
-| ADMILSON LOPES VIEIRA | Daniel Parenti Bicalho | Ângelo Lucas Silveira Castro |
-| Samuel | Gisele Garducci | Lucas Pontes Leal |
-| João Vitor de Souza Paz |  |  |
+| Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto | Matheus Luiz D Imperio Donini |
+| Matheus Feliciano Barros Gomes | Edilton Nunes | ADMILSON LOPES VIEIRA |
+| Daniel Parenti Bicalho | Ângelo Lucas Silveira Castro | Samuel |
+| Gisele Garducci | Lucas Pontes Leal | João Vitor de Souza Paz |
+| Vitória Silva |  |  |
 
 ### 🎓 Bolsistas — 1 membro
 
