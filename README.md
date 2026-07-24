@@ -2,7 +2,7 @@
 
 # 🏆 Apoiadores Oficiais — Titãs Casca Grossa Suprema
 
-![Membros](https://img.shields.io/badge/Membros_Ativos-78-22c55e?style=for-the-badge)
+![Membros](https://img.shields.io/badge/Membros_Ativos-79-22c55e?style=for-the-badge)
 ![Bolsistas](https://img.shields.io/badge/Bolsistas-1-f97316?style=for-the-badge)
 ![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)
 ![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)
@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 20/07/2026 | Total: **79** apoiadores
+> 📅 Atualizado em: 23/07/2026 | Total: **80** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -58,21 +58,22 @@
 | Nathalia Wisniewski Siqueira | Nathan Alves de Oliveira Framba | Philipe Vasconcellos da Silva |
 | Sônia Kesserlingh | Thiago da Silva Oliveira | Odnei Cesar Macalossi |
 
-### 🥈 Prata (9+ meses) — 5 membros
+### 🥈 Prata (9+ meses) — 7 membros
 
 | | | |
 |---|---|---|
-| Anderson Luiz Pereira | João Lucas Lins Bomfim | Lucas Rigolo Ortiz de Camargo  |
-| Magnus Costa Miranda | Thiago Francisco Ferreira |  |
+| Anderson Luiz Pereira | Gustavo dos Santos Cunha | João Lucas Lins Bomfim |
+| Lucas Rigolo Ortiz de Camargo  | Magnus Costa Miranda | Thiago Francisco Ferreira |
+| Tiago Domingues Figueiredo |  |  |
 
-### 🌟 Apoiador (6+ meses) — 11 membros
+### 🌟 Apoiador (6+ meses) — 10 membros
 
 | | | |
 |---|---|---|
-| Daniel Rodrigues de Oliveira da Costa | Franco Sciolla Ferrari | Gustavo dos Santos Cunha |
+| Ariel Toledo Goulart de Assis | Daniel Rodrigues de Oliveira da Costa | Franco Sciolla Ferrari |
 | Ícaro Vinícius de Souza Juvenal | João Paulo Martins Laudares dos Santos | João Rui Barbosa de Alencar |
 | José Antônio Marques  | Julio Pansiere Zavarise | Pedro Monteiro de Oliveira |
-| Tiago Domingues Figueiredo | Tiago Silva Marques |  |
+| Tiago Silva Marques |  |  |
 
 ### 🔹 Novo apoiador — 13 membros
 
