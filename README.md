@@ -2,7 +2,7 @@
 
 # 🏆 Apoiadores Oficiais — Titãs Casca Grossa Suprema
 
-![Membros](https://img.shields.io/badge/Membros_Ativos-79-22c55e?style=for-the-badge)
+![Membros](https://img.shields.io/badge/Membros_Ativos-78-22c55e?style=for-the-badge)
 ![Bolsistas](https://img.shields.io/badge/Bolsistas-1-f97316?style=for-the-badge)
 ![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)
 ![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)
@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 23/07/2026 | Total: **80** apoiadores
+> 📅 Atualizado em: 26/07/2026 | Total: **79** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -33,17 +33,17 @@
 | Daniel Wagner Oliveira de Medeiros | Fernando Fernandes Vieira  | Fernando Miguel de Amorim Lino |
 | Gabriel Luciano Borges de Carvalho |  |  |
 
-### 🚀 Super Longevity (24+ meses) — 21 membros
+### 🚀 Super Longevity (24+ meses) — 20 membros
 
 | | | |
 |---|---|---|
 | Bruno Marcelo Corbalán Da Mota | Carlos Alexandre Moreira da Silva | Cláudia Ferreira da Silva Lirio |
 | Diener Volpin Ribeiro Fontoura | Diocleciano Januário | Dyenny Ellen Lima Lhamas  |
 | Eron Paulo Borges Filho | Fabiano Bisinella Scheufele | Hugo Valença |
-| Isabela Dalmolin Battistella | Izabela Mendes Alves | Luis Gustavo Assunção Carneiro |
-| Marcos Guimarães Duarte Dias | Matheus Langendorf | Nicholas Islongo Canabarro |
-| Pablo Jimenez Salces | Raniere Pereira de Paula | Rayan Lima Fernandes |
-| Rubens Henrique L. de Oliveira | Vinícius Duarte Arrigoni | William Costa e Silva |
+| Izabela Mendes Alves | Luis Gustavo Assunção Carneiro | Marcos Guimarães Duarte Dias |
+| Matheus Langendorf | Nicholas Islongo Canabarro | Pablo Jimenez Salces |
+| Raniere Pereira de Paula | Rayan Lima Fernandes | Rubens Henrique L. de Oliveira |
+| Vinícius Duarte Arrigoni | William Costa e Silva |  |
 
 ### 🥇 Ouro (12+ meses) — 24 membros
 
