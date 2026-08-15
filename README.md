@@ -2,7 +2,7 @@
 
 # 🏆 Apoiadores Oficiais — Titãs Casca Grossa Suprema
 
-![Membros](https://img.shields.io/badge/Membros_Ativos-77-22c55e?style=for-the-badge)
+![Membros](https://img.shields.io/badge/Membros_Ativos-76-22c55e?style=for-the-badge)
 ![Bolsistas](https://img.shields.io/badge/Bolsistas-1-f97316?style=for-the-badge)
 ![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)
 ![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)
@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 14/08/2026 | Total: **78** apoiadores
+> 📅 Atualizado em: 15/08/2026 | Total: **77** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -45,19 +45,18 @@
 | Raniere Pereira de Paula | Rayan Lima Fernandes | Rubens Henrique L. de Oliveira |
 | Vinícius Duarte Arrigoni | William Costa e Silva |  |
 
-### 🥇 Ouro (12+ meses) — 25 membros
+### 🥇 Ouro (12+ meses) — 24 membros
 
 | | | |
 |---|---|---|
 | Alfredo Vitali | Carlos Rodrigues Paiva | Charles Dayan Farias de Jesus |
-| Diego dos Santos Simão | Ediane Sa Alves | Fiama Cristina dos Reis |
-| Frankhil Contreras Salgado | Gabriel Hernandez Rozo | Hubertt Kenned Elias Jr |
-| Isaias Surgek De Almeida  | João Manoel Folador Rodriguez | Leví Pereira Quissola |
-| Lucas Rigolo Ortiz de Camargo  | Luellen Pereira Rocha | Luiz Augusto da Cruz Meleiro |
-| Luiz Guilherme Roquette Lopreato | Marcos Vinícius Aquino Lopes | Mateus de Andrade Vasconcelos |
-| Moysés Naves de Moraes | Nathalia Wisniewski Siqueira | Nathan Alves de Oliveira Framba |
-| Philipe Vasconcellos da Silva | Sônia Kesserlingh | Thiago da Silva Oliveira |
-| Odnei Cesar Macalossi |  |  |
+| Diego dos Santos Simão | Fiama Cristina dos Reis | Frankhil Contreras Salgado |
+| Gabriel Hernandez Rozo | Hubertt Kenned Elias Jr | Isaias Surgek De Almeida  |
+| João Manoel Folador Rodriguez | Leví Pereira Quissola | Lucas Rigolo Ortiz de Camargo  |
+| Luellen Pereira Rocha | Luiz Augusto da Cruz Meleiro | Luiz Guilherme Roquette Lopreato |
+| Marcos Vinícius Aquino Lopes | Mateus de Andrade Vasconcelos | Moysés Naves de Moraes |
+| Nathalia Wisniewski Siqueira | Nathan Alves de Oliveira Framba | Philipe Vasconcellos da Silva |
+| Sônia Kesserlingh | Thiago da Silva Oliveira | Odnei Cesar Macalossi |
 
 ### 🥈 Prata (9+ meses) — 6 membros
 
