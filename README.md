@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 09/08/2026 | Total: **78** apoiadores
+> 📅 Atualizado em: 14/08/2026 | Total: **78** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -45,7 +45,7 @@
 | Raniere Pereira de Paula | Rayan Lima Fernandes | Rubens Henrique L. de Oliveira |
 | Vinícius Duarte Arrigoni | William Costa e Silva |  |
 
-### 🥇 Ouro (12+ meses) — 24 membros
+### 🥇 Ouro (12+ meses) — 25 membros
 
 | | | |
 |---|---|---|
@@ -53,18 +53,18 @@
 | Diego dos Santos Simão | Ediane Sa Alves | Fiama Cristina dos Reis |
 | Frankhil Contreras Salgado | Gabriel Hernandez Rozo | Hubertt Kenned Elias Jr |
 | Isaias Surgek De Almeida  | João Manoel Folador Rodriguez | Leví Pereira Quissola |
-| Luellen Pereira Rocha | Luiz Augusto da Cruz Meleiro | Luiz Guilherme Roquette Lopreato |
-| Marcos Vinícius Aquino Lopes | Mateus de Andrade Vasconcelos | Moysés Naves de Moraes |
-| Nathalia Wisniewski Siqueira | Nathan Alves de Oliveira Framba | Philipe Vasconcellos da Silva |
-| Sônia Kesserlingh | Thiago da Silva Oliveira | Odnei Cesar Macalossi |
+| Lucas Rigolo Ortiz de Camargo  | Luellen Pereira Rocha | Luiz Augusto da Cruz Meleiro |
+| Luiz Guilherme Roquette Lopreato | Marcos Vinícius Aquino Lopes | Mateus de Andrade Vasconcelos |
+| Moysés Naves de Moraes | Nathalia Wisniewski Siqueira | Nathan Alves de Oliveira Framba |
+| Philipe Vasconcellos da Silva | Sônia Kesserlingh | Thiago da Silva Oliveira |
+| Odnei Cesar Macalossi |  |  |
 
-### 🥈 Prata (9+ meses) — 7 membros
+### 🥈 Prata (9+ meses) — 6 membros
 
 | | | |
 |---|---|---|
 | Anderson Luiz Pereira | Gustavo dos Santos Cunha | João Lucas Lins Bomfim |
-| José Antônio Marques  | Lucas Rigolo Ortiz de Camargo  | Magnus Costa Miranda |
-| Tiago Domingues Figueiredo |  |  |
+| José Antônio Marques  | Magnus Costa Miranda | Tiago Domingues Figueiredo |
 
 ### 🌟 Apoiador (6+ meses) — 10 membros
 
@@ -72,17 +72,17 @@
 |---|---|---|
 | Ariel Toledo Goulart de Assis | Daniel Rodrigues de Oliveira da Costa | Franco Sciolla Ferrari |
 | Ícaro Vinícius de Souza Juvenal | João Paulo Martins Laudares dos Santos | João Rui Barbosa de Alencar |
-| Julio Pansiere Zavarise | Maria Eduarda Alves Barnabé | Pedro Monteiro de Oliveira |
+| Julio Pansiere Zavarise | Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto |
 | Tiago Silva Marques |  |  |
 
 ### 🔹 Novo apoiador — 12 membros
 
 | | | |
 |---|---|---|
-| Michelle Ayres de Campos Pinto | Matheus Luiz D Imperio Donini | Matheus Feliciano Barros Gomes |
-| Edilton Nunes | ADMILSON LOPES VIEIRA | Daniel Parenti Bicalho |
-| Ângelo Lucas Silveira Castro | Samuel | Gisele Garducci |
-| Lucas Pontes Leal | João Vitor de Souza Paz | Vitória Silva |
+| Matheus Luiz D Imperio Donini | Matheus Feliciano Barros Gomes | Edilton Nunes da Silva |
+| ADMILSON LOPES VIEIRA | Daniel Parenti Bicalho | Ângelo Lucas Silveira Castro |
+| Samuel | Gisele Garducci | Lucas Pontes Leal |
+| João Vitor de Souza Paz | Vitória Silva | Leonardo Holanda |
 
 ### 🎓 Bolsistas — 1 membro
 
