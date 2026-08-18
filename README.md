@@ -2,7 +2,7 @@
 
 # 🏆 Apoiadores Oficiais — Titãs Casca Grossa Suprema
 
-![Membros](https://img.shields.io/badge/Membros_Ativos-76-22c55e?style=for-the-badge)
+![Membros](https://img.shields.io/badge/Membros_Ativos-77-22c55e?style=for-the-badge)
 ![Bolsistas](https://img.shields.io/badge/Bolsistas-1-f97316?style=for-the-badge)
 ![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)
 ![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)
@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 15/08/2026 | Total: **77** apoiadores
+> 📅 Atualizado em: 18/08/2026 | Total: **78** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -33,17 +33,17 @@
 | Daniel Wagner Oliveira de Medeiros | Fernando Fernandes Vieira  | Fernando Miguel de Amorim Lino |
 | Gabriel Luciano Borges de Carvalho |  |  |
 
-### 🚀 Super Longevity (24+ meses) — 20 membros
+### 🚀 Super Longevity (24+ meses) — 21 membros
 
 | | | |
 |---|---|---|
 | Bruno Marcelo Corbalán Da Mota | Carlos Alexandre Moreira da Silva | Cláudia Ferreira da Silva Lirio |
-| Diocleciano Januário | Dyenny Ellen Lima Lhamas  | Eron Paulo Borges Filho |
-| Fabiano Bisinella Scheufele | Hugo Valença | Isabela Dalmolin Battistella |
-| Izabela Mendes Alves | Luis Gustavo Assunção Carneiro | Marcos Guimarães Duarte Dias |
-| Matheus Langendorf | Nicholas Islongo Canabarro | Pablo Jimenez Salces |
-| Raniere Pereira de Paula | Rayan Lima Fernandes | Rubens Henrique L. de Oliveira |
-| Vinícius Duarte Arrigoni | William Costa e Silva |  |
+| Diener Volpin Ribeiro Fontoura | Diocleciano Januário | Dyenny Ellen Lima Lhamas  |
+| Eron Paulo Borges Filho | Fabiano Bisinella Scheufele | Hugo Valença |
+| Isabela Dalmolin Battistella | Izabela Mendes Alves | Luis Gustavo Assunção Carneiro |
+| Marcos Guimarães Duarte Dias | Matheus Langendorf | Nicholas Islongo Canabarro |
+| Pablo Jimenez Salces | Raniere Pereira de Paula | Rayan Lima Fernandes |
+| Rubens Henrique L. de Oliveira | Vinícius Duarte Arrigoni | William Costa e Silva |
 
 ### 🥇 Ouro (12+ meses) — 24 membros
 
@@ -58,21 +58,21 @@
 | Nathalia Wisniewski Siqueira | Nathan Alves de Oliveira Framba | Philipe Vasconcellos da Silva |
 | Sônia Kesserlingh | Thiago da Silva Oliveira | Odnei Cesar Macalossi |
 
-### 🥈 Prata (9+ meses) — 6 membros
+### 🥈 Prata (9+ meses) — 7 membros
 
 | | | |
 |---|---|---|
-| Anderson Luiz Pereira | Gustavo dos Santos Cunha | João Lucas Lins Bomfim |
-| José Antônio Marques  | Magnus Costa Miranda | Tiago Domingues Figueiredo |
+| Anderson Luiz Pereira | Franco Sciolla Ferrari | Gustavo dos Santos Cunha |
+| João Lucas Lins Bomfim | José Antônio Marques  | Magnus Costa Miranda |
+| Tiago Domingues Figueiredo |  |  |
 
-### 🌟 Apoiador (6+ meses) — 10 membros
+### 🌟 Apoiador (6+ meses) — 9 membros
 
 | | | |
 |---|---|---|
-| Ariel Toledo Goulart de Assis | Daniel Rodrigues de Oliveira da Costa | Franco Sciolla Ferrari |
-| Ícaro Vinícius de Souza Juvenal | João Paulo Martins Laudares dos Santos | João Rui Barbosa de Alencar |
-| Julio Pansiere Zavarise | Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto |
-| Tiago Silva Marques |  |  |
+| Ariel Toledo Goulart de Assis | Daniel Rodrigues de Oliveira da Costa | Ícaro Vinícius de Souza Juvenal |
+| João Paulo Martins Laudares dos Santos | João Rui Barbosa de Alencar | Julio Pansiere Zavarise |
+| Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto | Tiago Silva Marques |
 
 ### 🔹 Novo apoiador — 12 membros
 
