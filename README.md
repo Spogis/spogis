@@ -2,7 +2,7 @@
 
 # 🏆 Apoiadores Oficiais — Titãs Casca Grossa Suprema
 
-![Membros](https://img.shields.io/badge/Membros_Ativos-80-22c55e?style=for-the-badge)
+![Membros](https://img.shields.io/badge/Membros_Ativos-79-22c55e?style=for-the-badge)
 ![Bolsistas](https://img.shields.io/badge/Bolsistas-1-f97316?style=for-the-badge)
 ![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)
 ![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)
@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 20/08/2026 | Total: **81** apoiadores
+> 📅 Atualizado em: 21/08/2026 | Total: **80** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -67,13 +67,13 @@
 | João Lucas Lins Bomfim | José Antônio Marques  | Magnus Costa Miranda |
 | Thiago Francisco Ferreira | Tiago Domingues Figueiredo |  |
 
-### 🌟 Apoiador (6+ meses) — 9 membros
+### 🌟 Apoiador (6+ meses) — 8 membros
 
 | | | |
 |---|---|---|
-| Ariel Toledo Goulart de Assis | Daniel Rodrigues de Oliveira da Costa | Ícaro Vinícius de Souza Juvenal |
-| João Paulo Martins Laudares dos Santos | João Rui Barbosa de Alencar | Julio Pansiere Zavarise |
-| Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto | Tiago Silva Marques |
+| Daniel Rodrigues de Oliveira da Costa | Ícaro Vinícius de Souza Juvenal | João Paulo Martins Laudares dos Santos |
+| João Rui Barbosa de Alencar | Julio Pansiere Zavarise | Maria Eduarda Alves Barnabé |
+| Michelle Ayres de Campos Pinto | Tiago Silva Marques |  |
 
 ### 🔹 Novo apoiador — 13 membros
 
