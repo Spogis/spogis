@@ -2,7 +2,7 @@
 
 # 🏆 Apoiadores Oficiais — Titãs Casca Grossa Suprema
 
-![Membros](https://img.shields.io/badge/Membros_Ativos-80-22c55e?style=for-the-badge)
+![Membros](https://img.shields.io/badge/Membros_Ativos-81-22c55e?style=for-the-badge)
 ![Bolsistas](https://img.shields.io/badge/Bolsistas-1-f97316?style=for-the-badge)
 ![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)
 ![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)
@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 21/08/2026 | Total: **81** apoiadores
+> 📅 Atualizado em: 26/08/2026 | Total: **82** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -45,27 +45,27 @@
 | Pablo Jimenez Salces | Raniere Pereira de Paula | Rayan Lima Fernandes |
 | Rubens Henrique L. de Oliveira | Vinícius Duarte Arrigoni | William Costa e Silva |
 
-### 🥇 Ouro (12+ meses) — 25 membros
+### 🥇 Ouro (12+ meses) — 26 membros
 
 | | | |
 |---|---|---|
-| Alfredo Vitali | Carlos Rodrigues Paiva | Charles Dayan Farias de Jesus |
-| Diego dos Santos Simão | Fiama Cristina dos Reis | Frankhil Contreras Salgado |
-| Gabriel Hernandez Rozo | Hubertt Kenned Elias Jr | Isaias Surgek De Almeida  |
-| João Manoel Folador Rodriguez | Leví Pereira Quissola | Lucas Rigolo Ortiz de Camargo  |
-| Luellen Pereira Rocha | Luiz Augusto da Cruz Meleiro | Luiz Guilherme Roquette Lopreato |
-| Marcelo Dahan Gomes da Silva | Marcos Vinícius Aquino Lopes | Mateus de Andrade Vasconcelos |
-| Moysés Naves de Moraes | Nathalia Wisniewski Siqueira | Nathan Alves de Oliveira Framba |
-| Philipe Vasconcellos da Silva | Sônia Kesserlingh | Thiago da Silva Oliveira |
-| Odnei Cesar Macalossi |  |  |
+| Alfredo Vitali | Anderson Luiz Pereira | Carlos Rodrigues Paiva |
+| Charles Dayan Farias de Jesus | Diego dos Santos Simão | Fiama Cristina dos Reis |
+| Frankhil Contreras Salgado | Gabriel Hernandez Rozo | Hubertt Kenned Elias Jr |
+| Isaias Surgek De Almeida  | João Manoel Folador Rodriguez | Leví Pereira Quissola |
+| Lucas Rigolo Ortiz de Camargo  | Luellen Pereira Rocha | Luiz Augusto da Cruz Meleiro |
+| Luiz Guilherme Roquette Lopreato | Marcelo Dahan Gomes da Silva | Marcos Vinícius Aquino Lopes |
+| Mateus de Andrade Vasconcelos | Moysés Naves de Moraes | Nathalia Wisniewski Siqueira |
+| Nathan Alves de Oliveira Framba | Philipe Vasconcellos da Silva | Sônia Kesserlingh |
+| Thiago da Silva Oliveira | Odnei Cesar Macalossi |  |
 
-### 🥈 Prata (9+ meses) — 8 membros
+### 🥈 Prata (9+ meses) — 7 membros
 
 | | | |
 |---|---|---|
-| Anderson Luiz Pereira | Franco Sciolla Ferrari | Gustavo dos Santos Cunha |
-| João Lucas Lins Bomfim | José Antônio Marques  | Magnus Costa Miranda |
-| Thiago Francisco Ferreira | Tiago Domingues Figueiredo |  |
+| Franco Sciolla Ferrari | Gustavo dos Santos Cunha | João Lucas Lins Bomfim |
+| José Antônio Marques  | Magnus Costa Miranda | Thiago Francisco Ferreira |
+| Tiago Domingues Figueiredo |  |  |
 
 ### 🌟 Apoiador (6+ meses) — 9 membros
 
@@ -75,15 +75,15 @@
 | João Paulo Martins Laudares dos Santos | João Rui Barbosa de Alencar | Julio Pansiere Zavarise |
 | Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto | Tiago Silva Marques |
 
-### 🔹 Novo apoiador — 13 membros
+### 🔹 Novo apoiador — 14 membros
 
 | | | |
 |---|---|---|
 | Matheus Luiz D Imperio Donini | Matheus Feliciano Barros Gomes | Edilton Nunes da Silva |
 | Admilson Lopes Vieira | Daniel Parenti Bicalho | Ângelo Lucas Silveira Castro |
-| Samuel | Gisele Garducci | Lucas Pontes Leal |
-| João Vitor de Souza Paz | Vitória Silva | Leonardo Holanda |
-| Leomário Guedes do Nascimento |  |  |
+| LV | Samuel | Gisele Garducci |
+| Lucas Pontes Leal | João Vitor de Souza Paz | Vitória Silva |
+| Leonardo Holanda | Leomário Guedes do Nascimento |  |
 
 ### 🎓 Bolsistas — 1 membro
 
