@@ -2,7 +2,7 @@
 
 # 🏆 Apoiadores Oficiais — Titãs Casca Grossa Suprema
 
-![Membros](https://img.shields.io/badge/Membros_Ativos-82-22c55e?style=for-the-badge)
+![Membros](https://img.shields.io/badge/Membros_Ativos-83-22c55e?style=for-the-badge)
 ![Bolsistas](https://img.shields.io/badge/Bolsistas-1-f97316?style=for-the-badge)
 ![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)
 ![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)
@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 30/08/2026 | Total: **83** apoiadores
+> 📅 Atualizado em: 01/09/2026 | Total: **84** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -75,7 +75,7 @@
 | João Paulo Martins Laudares dos Santos | Julio Pansiere Zavarise | Maria Eduarda Alves Barnabé |
 | Michelle Ayres de Campos Pinto | Tiago Silva Marques |  |
 
-### 🔹 Novo apoiador — 15 membros
+### 🔹 Novo apoiador — 16 membros
 
 | | | |
 |---|---|---|
@@ -84,6 +84,7 @@
 | LV | Samuel | Gisele Garducci |
 | Lucas Pontes Leal | João Vitor de Souza Paz | Vitória Silva |
 | Leonardo Holanda | Leomário Guedes do Nascimento | Artur Florencio Cornacini |
+| Gilberto Ribeiro Pinto Júnior |  |  |
 
 ### 🎓 Bolsistas — 1 membro
 
