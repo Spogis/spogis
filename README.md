@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 07/09/2026 | Total: **83** apoiadores
+> 📅 Atualizado em: 11/09/2026 | Total: **83** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -59,21 +59,21 @@
 | Nathan Alves de Oliveira Framba | Philipe Vasconcellos da Silva | Sônia Kesserlingh |
 | Thiago da Silva Oliveira | Odnei Cesar Macalossi |  |
 
-### 🥈 Prata (9+ meses) — 8 membros
+### 🥈 Prata (9+ meses) — 9 membros
 
 | | | |
 |---|---|---|
-| Franco Sciolla Ferrari | Gustavo dos Santos Cunha | João Lucas Lins Bomfim |
-| João Rui Barbosa de Alencar | José Antônio Marques  | Magnus Costa Miranda |
-| Thiago Francisco Ferreira | Tiago Domingues Figueiredo |  |
+| Franco Sciolla Ferrari | Gustavo dos Santos Cunha | Ícaro Vinícius de Souza Juvenal |
+| João Lucas Lins Bomfim | João Rui Barbosa de Alencar | José Antônio Marques  |
+| Magnus Costa Miranda | Thiago Francisco Ferreira | Tiago Domingues Figueiredo |
 
-### 🌟 Apoiador (6+ meses) — 8 membros
+### 🌟 Apoiador (6+ meses) — 7 membros
 
 | | | |
 |---|---|---|
-| Ariel Toledo Goulart de Assis | Daniel Rodrigues de Oliveira da Costa | Ícaro Vinícius de Souza Juvenal |
-| João Paulo Martins Laudares dos Santos | Julio Pansiere Zavarise | Maria Eduarda Alves Barnabé |
-| Michelle Ayres de Campos Pinto | Tiago Silva Marques |  |
+| Ariel Toledo Goulart de Assis | Daniel Rodrigues de Oliveira da Costa | João Paulo Martins Laudares dos Santos |
+| Julio Pansiere Zavarise | Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto |
+| Tiago Silva Marques |  |  |
 
 ### 🔹 Novo apoiador — 15 membros
 
