@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 11/09/2026 | Total: **83** apoiadores
+> 📅 Atualizado em: 16/09/2026 | Total: **83** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -67,15 +67,14 @@
 | João Lucas Lins Bomfim | João Rui Barbosa de Alencar | José Antônio Marques  |
 | Magnus Costa Miranda | Thiago Francisco Ferreira | Tiago Domingues Figueiredo |
 
-### 🌟 Apoiador (6+ meses) — 7 membros
+### 🌟 Apoiador (6+ meses) — 6 membros
 
 | | | |
 |---|---|---|
 | Ariel Toledo Goulart de Assis | Daniel Rodrigues de Oliveira da Costa | João Paulo Martins Laudares dos Santos |
-| Julio Pansiere Zavarise | Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto |
-| Tiago Silva Marques |  |  |
+| Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto | Tiago Silva Marques |
 
-### 🔹 Novo apoiador — 15 membros
+### 🔹 Novo apoiador — 16 membros
 
 | | | |
 |---|---|---|
@@ -84,6 +83,7 @@
 | Samuel | Gisele Garducci | Lucas Pontes Leal |
 | João Vitor de Souza Paz | Vitória Silva | Leonardo Holanda |
 | Leomário Guedes do Nascimento | Artur Florencio Cornacini | Gilberto Ribeiro Pinto Júnior |
+| Pedro Luiz de Queiroz Martins |  |  |
 
 ### 🎓 Bolsistas — 1 membro
 
