@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 19/09/2026 | Total: **83** apoiadores
+> 📅 Atualizado em: 26/09/2026 | Total: **83** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -45,7 +45,7 @@
 | Pablo Jimenez Salces | Raniere Pereira de Paula | Rayan Lima Fernandes |
 | Rubens Henrique L. de Oliveira | Vinícius Duarte Arrigoni | William Costa e Silva |
 
-### 🥇 Ouro (12+ meses) — 26 membros
+### 🥇 Ouro (12+ meses) — 27 membros
 
 | | | |
 |---|---|---|
@@ -57,33 +57,33 @@
 | Luiz Guilherme Roquette Lopreato | Marcelo Dahan Gomes da Silva | Marcos Vinícius Aquino Lopes |
 | Mateus de Andrade Vasconcelos | Moysés Naves de Moraes | Nathalia Wisniewski Siqueira |
 | Nathan Alves de Oliveira Framba | Philipe Vasconcellos da Silva | Sônia Kesserlingh |
-| Thiago da Silva Oliveira | Odnei Cesar Macalossi |  |
+| Thiago da Silva Oliveira | Thiago Francisco Ferreira | Odnei Cesar Macalossi |
 
-### 🥈 Prata (9+ meses) — 9 membros
-
-| | | |
-|---|---|---|
-| Franco Sciolla Ferrari | Gustavo dos Santos Cunha | Ícaro Vinícius de Souza Juvenal |
-| João Lucas Lins Bomfim | João Rui Barbosa de Alencar | José Antônio Marques  |
-| Magnus Costa Miranda | Thiago Francisco Ferreira | Tiago Domingues Figueiredo |
-
-### 🌟 Apoiador (6+ meses) — 6 membros
+### 🥈 Prata (9+ meses) — 10 membros
 
 | | | |
 |---|---|---|
-| Ariel Toledo Goulart de Assis | Daniel Rodrigues de Oliveira da Costa | João Paulo Martins Laudares dos Santos |
-| Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto | Tiago Silva Marques |
+| Daniel Rodrigues de Oliveira da Costa | Franco Sciolla Ferrari | Gustavo dos Santos Cunha |
+| Ícaro Vinícius de Souza Juvenal | João Lucas Lins Bomfim | João Rui Barbosa de Alencar |
+| José Antônio Marques  | Magnus Costa Miranda | Tiago Domingues Figueiredo |
+| Tiago Silva Marques |  |  |
 
-### 🔹 Novo apoiador — 16 membros
+### 🌟 Apoiador (6+ meses) — 5 membros
 
 | | | |
 |---|---|---|
-| Matheus Luiz D Imperio Donini | Matheus Feliciano Barros Gomes | Edilton Nunes da Silva |
-| Admilson Lopes Vieira | Ângelo Lucas Silveira Castro | LV |
-| Samuel | Gisele Garducci | Lucas Pontes Leal |
-| João Vitor de Souza Paz | Vitória Silva | Leonardo Holanda |
-| Leomário Guedes do Nascimento | Artur Florencio Cornacini | Gilberto Ribeiro Pinto Júnior |
-| Pedro Luiz de Queiroz Martins |  |  |
+| Ariel Toledo Goulart de Assis | João Paulo Martins Laudares dos Santos | Maria Eduarda Alves Barnabé |
+| Michelle Ayres de Campos Pinto | Matheus Luiz D Imperio Donini |  |
+
+### 🔹 Novo apoiador — 15 membros
+
+| | | |
+|---|---|---|
+| Matheus Feliciano Barros Gomes | Edilton Nunes da Silva | Admilson Lopes Vieira |
+| Ângelo Lucas Silveira Castro | LV | Samuel |
+| Gisele Garducci | Lucas Pontes Leal | João Vitor de Souza Paz |
+| Vitória Silva | Leonardo Holanda | Leomário Guedes do Nascimento |
+| Artur Florencio Cornacini | Gilberto Ribeiro Pinto Júnior | Pedro Luiz de Queiroz Martins |
 
 ### 🎓 Bolsistas — 1 membro
 
