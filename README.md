@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 26/09/2026 | Total: **83** apoiadores
+> 📅 Atualizado em: 06/10/2026 | Total: **83** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -33,7 +33,7 @@
 | Daniel Wagner Oliveira de Medeiros | Fernando Fernandes Vieira  | Fernando Miguel de Amorim Lino |
 | Gabriel Luciano Borges de Carvalho |  |  |
 
-### 🚀 Super Longevity (24+ meses) — 21 membros
+### 🚀 Super Longevity (24+ meses) — 22 membros
 
 | | | |
 |---|---|---|
@@ -41,11 +41,12 @@
 | Diener Volpin Ribeiro Fontoura | Diocleciano Januário | Dyenny Ellen Lima Lhamas  |
 | Eron Paulo Borges Filho | Fabiano Bisinella Scheufele | Hugo Valença |
 | Isabela Dalmolin Battistella | Izabela Mendes Alves | Luis Gustavo Assunção Carneiro |
-| Marcos Guimarães Duarte Dias | Matheus Langendorf | Nicholas Islongo Canabarro |
-| Pablo Jimenez Salces | Raniere Pereira de Paula | Rayan Lima Fernandes |
-| Rubens Henrique L. de Oliveira | Vinícius Duarte Arrigoni | William Costa e Silva |
+| Marcos Guimarães Duarte Dias | Matheus Langendorf | Moysés Naves de Moraes |
+| Nicholas Islongo Canabarro | Pablo Jimenez Salces | Raniere Pereira de Paula |
+| Rayan Lima Fernandes | Rubens Henrique L. de Oliveira | Vinícius Duarte Arrigoni |
+| William Costa e Silva |  |  |
 
-### 🥇 Ouro (12+ meses) — 27 membros
+### 🥇 Ouro (12+ meses) — 26 membros
 
 | | | |
 |---|---|---|
@@ -55,35 +56,35 @@
 | Isaias Surgek De Almeida  | João Manoel Folador Rodriguez | Leví Pereira Quissola |
 | Lucas Rigolo Ortiz de Camargo  | Luellen Pereira Rocha | Luiz Augusto da Cruz Meleiro |
 | Luiz Guilherme Roquette Lopreato | Marcelo Dahan Gomes da Silva | Marcos Vinícius Aquino Lopes |
-| Mateus de Andrade Vasconcelos | Moysés Naves de Moraes | Nathalia Wisniewski Siqueira |
-| Nathan Alves de Oliveira Framba | Philipe Vasconcellos da Silva | Sônia Kesserlingh |
-| Thiago da Silva Oliveira | Thiago Francisco Ferreira | Odnei Cesar Macalossi |
+| Mateus de Andrade Vasconcelos | Nathalia Wisniewski Siqueira | Nathan Alves de Oliveira Framba |
+| Philipe Vasconcellos da Silva | Sônia Kesserlingh | Thiago da Silva Oliveira |
+| Thiago Francisco Ferreira | Odnei Cesar Macalossi |  |
 
-### 🥈 Prata (9+ meses) — 10 membros
+### 🥈 Prata (9+ meses) — 11 membros
 
 | | | |
 |---|---|---|
 | Daniel Rodrigues de Oliveira da Costa | Franco Sciolla Ferrari | Gustavo dos Santos Cunha |
-| Ícaro Vinícius de Souza Juvenal | João Lucas Lins Bomfim | João Rui Barbosa de Alencar |
-| José Antônio Marques  | Magnus Costa Miranda | Tiago Domingues Figueiredo |
-| Tiago Silva Marques |  |  |
+| Ícaro Vinícius de Souza Juvenal | João Lucas Lins Bomfim | João Paulo Martins Laudares dos Santos |
+| João Rui Barbosa de Alencar | José Antônio Marques  | Magnus Costa Miranda |
+| Tiago Domingues Figueiredo | Tiago Silva Marques |  |
 
 ### 🌟 Apoiador (6+ meses) — 5 membros
 
 | | | |
 |---|---|---|
-| Ariel Toledo Goulart de Assis | João Paulo Martins Laudares dos Santos | Maria Eduarda Alves Barnabé |
-| Michelle Ayres de Campos Pinto | Matheus Luiz D Imperio Donini |  |
+| Ariel Toledo Goulart de Assis | Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto |
+| Matheus Luiz D Imperio Donini | Matheus Feliciano Barros Gomes |  |
 
-### 🔹 Novo apoiador — 15 membros
+### 🔹 Novo apoiador — 14 membros
 
 | | | |
 |---|---|---|
-| Matheus Feliciano Barros Gomes | Edilton Nunes da Silva | Admilson Lopes Vieira |
-| Ângelo Lucas Silveira Castro | LV | Samuel |
-| Gisele Garducci | Lucas Pontes Leal | João Vitor de Souza Paz |
-| Vitória Silva | Leonardo Holanda | Leomário Guedes do Nascimento |
-| Artur Florencio Cornacini | Gilberto Ribeiro Pinto Júnior | Pedro Luiz de Queiroz Martins |
+| Edilton Nunes da Silva | Admilson Lopes Vieira | Ângelo Lucas Silveira Castro |
+| LV | Samuel | Gisele Garducci |
+| Lucas Pontes Leal | João Vitor de Souza Paz | Vitória Silva |
+| Leonardo Holanda | Leomário Guedes do Nascimento | Artur Florencio Cornacini |
+| Gilberto Ribeiro Pinto Júnior | Pedro Luiz de Queiroz Martins |  |
 
 ### 🎓 Bolsistas — 1 membro
 
