@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 19/10/2026 | Total: **83** apoiadores
+> 📅 Atualizado em: 20/10/2026 | Total: **83** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -33,32 +33,32 @@
 | Daniel Wagner Oliveira de Medeiros | Fernando Fernandes Vieira  | Fernando Miguel de Amorim Lino |
 | Gabriel Luciano Borges de Carvalho |  |  |
 
-### 🚀 Super Longevity (24+ meses) — 23 membros
+### 🚀 Super Longevity (24+ meses) — 24 membros
 
 | | | |
 |---|---|---|
 | Bruno Marcelo Corbalán Da Mota | Carlos Alexandre Moreira da Silva | Cláudia Ferreira da Silva Lirio |
-| Diocleciano Januário | Dyenny Ellen Lima Lhamas  | Eron Paulo Borges Filho |
-| Fabiano Bisinella Scheufele | Hugo Valença | Isabela Dalmolin Battistella |
-| Izabela Mendes Alves | Luis Gustavo Assunção Carneiro | Marcos Guimarães Duarte Dias |
-| Matheus Langendorf | Moysés Naves de Moraes | Nathan Alves de Oliveira Framba |
-| Nicholas Islongo Canabarro | Pablo Jimenez Salces | Raniere Pereira de Paula |
-| Rayan Lima Fernandes | Rubens Henrique L. de Oliveira | Vinícius Duarte Arrigoni |
-| William Costa e Silva | Odnei Cesar Macalossi |  |
+| Diener Volpin Ribeiro Fontoura | Diocleciano Januário | Dyenny Ellen Lima Lhamas  |
+| Eron Paulo Borges Filho | Fabiano Bisinella Scheufele | Hugo Valença |
+| Isabela Dalmolin Battistella | Izabela Mendes Alves | Luis Gustavo Assunção Carneiro |
+| Marcos Guimarães Duarte Dias | Matheus Langendorf | Moysés Naves de Moraes |
+| Nathan Alves de Oliveira Framba | Nicholas Islongo Canabarro | Pablo Jimenez Salces |
+| Raniere Pereira de Paula | Rayan Lima Fernandes | Rubens Henrique L. de Oliveira |
+| Vinícius Duarte Arrigoni | William Costa e Silva | Odnei Cesar Macalossi |
 
-### 🥇 Ouro (12+ meses) — 26 membros
+### 🥇 Ouro (12+ meses) — 25 membros
 
 | | | |
 |---|---|---|
 | Alfredo Vitali | Anderson Luiz Pereira | Carlos Rodrigues Paiva |
-| Charles Dayan Farias de Jesus | Diego dos Santos Simão | Fiama Cristina dos Reis |
-| Frankhil Contreras Salgado | Gabriel Hernandez Rozo | Hubertt Kenned Elias Jr |
-| Isaias Surgek De Almeida  | João Lucas Lins Bomfim | João Manoel Folador Rodriguez |
-| Leví Pereira Quissola | Lucas Rigolo Ortiz de Camargo  | Luellen Pereira Rocha |
-| Luiz Augusto da Cruz Meleiro | Luiz Guilherme Roquette Lopreato | Magnus Costa Miranda |
-| Marcelo Dahan Gomes da Silva | Marcos Vinícius Aquino Lopes | Mateus de Andrade Vasconcelos |
-| Nathalia Wisniewski Siqueira | Philipe Vasconcellos da Silva | Sônia Kesserlingh |
-| Thiago da Silva Oliveira | Thiago Francisco Ferreira |  |
+| Charles Dayan Farias de Jesus | Diego dos Santos Simão | Frankhil Contreras Salgado |
+| Gabriel Hernandez Rozo | Hubertt Kenned Elias Jr | Isaias Surgek De Almeida  |
+| João Lucas Lins Bomfim | João Manoel Folador Rodriguez | Leví Pereira Quissola |
+| Lucas Rigolo Ortiz de Camargo  | Luellen Pereira Rocha | Luiz Augusto da Cruz Meleiro |
+| Luiz Guilherme Roquette Lopreato | Magnus Costa Miranda | Marcelo Dahan Gomes da Silva |
+| Marcos Vinícius Aquino Lopes | Mateus de Andrade Vasconcelos | Nathalia Wisniewski Siqueira |
+| Philipe Vasconcellos da Silva | Sônia Kesserlingh | Thiago da Silva Oliveira |
+| Thiago Francisco Ferreira |  |  |
 
 ### 🥈 Prata (9+ meses) — 9 membros
 
