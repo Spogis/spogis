@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 22/10/2026 | Total: **84** apoiadores
+> 📅 Atualizado em: 28/10/2026 | Total: **84** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -46,45 +46,45 @@
 | Raniere Pereira de Paula | Rayan Lima Fernandes | Rubens Henrique L. de Oliveira |
 | Vinícius Duarte Arrigoni | William Costa e Silva | Odnei Cesar Macalossi |
 
-### 🥇 Ouro (12+ meses) — 26 membros
+### 🥇 Ouro (12+ meses) — 28 membros
 
 | | | |
 |---|---|---|
 | Alfredo Vitali | Anderson Luiz Pereira | Andy Avimael Saavedra Mendoza |
 | Carlos Rodrigues Paiva | Charles Dayan Farias de Jesus | Diego dos Santos Simão |
-| Frankhil Contreras Salgado | Gabriel Hernandez Rozo | Hubertt Kenned Elias Jr |
-| Isaias Surgek De Almeida  | João Lucas Lins Bomfim | João Manoel Folador Rodriguez |
-| Leví Pereira Quissola | Lucas Rigolo Ortiz de Camargo  | Luellen Pereira Rocha |
-| Luiz Augusto da Cruz Meleiro | Luiz Guilherme Roquette Lopreato | Magnus Costa Miranda |
-| Marcelo Dahan Gomes da Silva | Marcos Vinícius Aquino Lopes | Mateus de Andrade Vasconcelos |
-| Nathalia Wisniewski Siqueira | Philipe Vasconcellos da Silva | Sônia Kesserlingh |
-| Thiago da Silva Oliveira | Thiago Francisco Ferreira |  |
+| Frankhil Contreras Salgado | Gabriel Hernandez Rozo | Gustavo dos Santos Cunha |
+| Hubertt Kenned Elias Jr | Isaias Surgek De Almeida  | João Lucas Lins Bomfim |
+| João Manoel Folador Rodriguez | Leví Pereira Quissola | Lucas Rigolo Ortiz de Camargo  |
+| Luellen Pereira Rocha | Luiz Augusto da Cruz Meleiro | Luiz Guilherme Roquette Lopreato |
+| Magnus Costa Miranda | Marcelo Dahan Gomes da Silva | Marcos Vinícius Aquino Lopes |
+| Mateus de Andrade Vasconcelos | Nathalia Wisniewski Siqueira | Philipe Vasconcellos da Silva |
+| Sônia Kesserlingh | Thiago da Silva Oliveira | Thiago Francisco Ferreira |
+| Tiago Domingues Figueiredo |  |  |
 
-### 🥈 Prata (9+ meses) — 10 membros
+### 🥈 Prata (9+ meses) — 8 membros
 
 | | | |
 |---|---|---|
 | Ariel Toledo Goulart de Assis | Daniel Rodrigues de Oliveira da Costa | Franco Sciolla Ferrari |
-| Gustavo dos Santos Cunha | Ícaro Vinícius de Souza Juvenal | João Paulo Martins Laudares dos Santos |
-| João Rui Barbosa de Alencar | José Antônio Marques  | Tiago Domingues Figueiredo |
-| Tiago Silva Marques |  |  |
+| Ícaro Vinícius de Souza Juvenal | João Paulo Martins Laudares dos Santos | João Rui Barbosa de Alencar |
+| José Antônio Marques  | Tiago Silva Marques |  |
 
-### 🌟 Apoiador (6+ meses) — 4 membros
+### 🌟 Apoiador (6+ meses) — 5 membros
 
 | | | |
 |---|---|---|
 | Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto | Matheus Luiz D Imperio Donini |
-| Matheus Feliciano Barros Gomes |  |  |
+| Matheus Feliciano Barros Gomes | Edilton Nunes da Silva |  |
 
-### 🔹 Novo apoiador — 15 membros
+### 🔹 Novo apoiador — 14 membros
 
 | | | |
 |---|---|---|
-| Edilton Nunes da Silva | Admilson Lopes Vieira | Ângelo Lucas Silveira Castro |
-| LV | Samuel | Gisele Garducci |
-| Lucas Pontes Leal | João Vitor de Souza Paz | Vitória Silva |
-| Leonardo Holanda | Leomário Guedes do Nascimento | Artur Florencio Cornacini |
-| Gilberto Ribeiro Pinto Júnior | Pedro Luiz de Queiroz Martins | Vinícius Cardoso Pereira da Silva |
+| Admilson Lopes Vieira | Ângelo Lucas Silveira Castro | LV |
+| Samuel | Gisele Garducci | Lucas Pontes Leal |
+| João Vitor de Souza Paz | Vitória Silva | Leonardo Holanda |
+| Leomário Guedes do Nascimento | Artur Florencio Cornacini | Gilberto Ribeiro Pinto Júnior |
+| Pedro Luiz de Queiroz Martins | Vinícius Cardoso Pereira da Silva |  |
 
 ### 🎓 Bolsistas — 1 membro
 
