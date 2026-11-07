@@ -2,7 +2,7 @@
 
 # 🏆 Apoiadores Oficiais — Titãs Casca Grossa Suprema
 
-![Membros](https://img.shields.io/badge/Membros_Ativos-83-22c55e?style=for-the-badge)
+![Membros](https://img.shields.io/badge/Membros_Ativos-82-22c55e?style=for-the-badge)
 ![Bolsistas](https://img.shields.io/badge/Bolsistas-1-f97316?style=for-the-badge)
 ![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)
 ![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)
@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 28/10/2026 | Total: **84** apoiadores
+> 📅 Atualizado em: 07/11/2026 | Total: **83** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -40,10 +40,10 @@
 | Bruno Marcelo Corbalán Da Mota | Carlos Alexandre Moreira da Silva | Cláudia Ferreira da Silva Lirio |
 | Diener Volpin Ribeiro Fontoura | Diocleciano Januário | Dyenny Ellen Lima Lhamas  |
 | Eron Paulo Borges Filho | Fabiano Bisinella Scheufele | Hugo Valença |
-| Isabela Dalmolin Battistella | Izabela Mendes Alves | Luis Gustavo Assunção Carneiro |
-| Marcos Guimarães Duarte Dias | Matheus Langendorf | Moysés Naves de Moraes |
-| Nathan Alves de Oliveira Framba | Nicholas Islongo Canabarro | Pablo Jimenez Salces |
-| Raniere Pereira de Paula | Rayan Lima Fernandes | Rubens Henrique L. de Oliveira |
+| Isabela Dalmolin Battistella | Isaias Surgek De Almeida  | Izabela Mendes Alves |
+| Luis Gustavo Assunção Carneiro | Marcos Guimarães Duarte Dias | Matheus Langendorf |
+| Moysés Naves de Moraes | Nathan Alves de Oliveira Framba | Nicholas Islongo Canabarro |
+| Pablo Jimenez Salces | Raniere Pereira de Paula | Rayan Lima Fernandes |
 | Vinícius Duarte Arrigoni | William Costa e Silva | Odnei Cesar Macalossi |
 
 ### 🥇 Ouro (12+ meses) — 28 membros
@@ -53,8 +53,8 @@
 | Alfredo Vitali | Anderson Luiz Pereira | Andy Avimael Saavedra Mendoza |
 | Carlos Rodrigues Paiva | Charles Dayan Farias de Jesus | Diego dos Santos Simão |
 | Frankhil Contreras Salgado | Gabriel Hernandez Rozo | Gustavo dos Santos Cunha |
-| Hubertt Kenned Elias Jr | Isaias Surgek De Almeida  | João Lucas Lins Bomfim |
-| João Manoel Folador Rodriguez | Leví Pereira Quissola | Lucas Rigolo Ortiz de Camargo  |
+| Hubertt Kenned Elias Jr | João Lucas Lins Bomfim | João Manoel Folador Rodriguez |
+| José Antônio Marques  | Leví Pereira Quissola | Lucas Rigolo Ortiz de Camargo  |
 | Luellen Pereira Rocha | Luiz Augusto da Cruz Meleiro | Luiz Guilherme Roquette Lopreato |
 | Magnus Costa Miranda | Marcelo Dahan Gomes da Silva | Marcos Vinícius Aquino Lopes |
 | Mateus de Andrade Vasconcelos | Nathalia Wisniewski Siqueira | Philipe Vasconcellos da Silva |
@@ -67,24 +67,24 @@
 |---|---|---|
 | Ariel Toledo Goulart de Assis | Daniel Rodrigues de Oliveira da Costa | Franco Sciolla Ferrari |
 | Ícaro Vinícius de Souza Juvenal | João Paulo Martins Laudares dos Santos | João Rui Barbosa de Alencar |
-| José Antônio Marques  | Tiago Silva Marques |  |
+| Maria Eduarda Alves Barnabé | Tiago Silva Marques |  |
 
 ### 🌟 Apoiador (6+ meses) — 5 membros
 
 | | | |
 |---|---|---|
-| Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto | Matheus Luiz D Imperio Donini |
-| Matheus Feliciano Barros Gomes | Edilton Nunes da Silva |  |
+| Michelle Ayres de Campos Pinto | Matheus Luiz D Imperio Donini | Matheus Feliciano Barros Gomes |
+| Edilton Nunes da Silva | Admilson Lopes Vieira |  |
 
-### 🔹 Novo apoiador — 14 membros
+### 🔹 Novo apoiador — 13 membros
 
 | | | |
 |---|---|---|
-| Admilson Lopes Vieira | Ângelo Lucas Silveira Castro | LV |
-| Samuel | Gisele Garducci | Lucas Pontes Leal |
-| João Vitor de Souza Paz | Vitória Silva | Leonardo Holanda |
-| Leomário Guedes do Nascimento | Artur Florencio Cornacini | Gilberto Ribeiro Pinto Júnior |
-| Pedro Luiz de Queiroz Martins | Vinícius Cardoso Pereira da Silva |  |
+| Ângelo Lucas Silveira Castro | LV | Samuel |
+| Gisele Garducci | Lucas Pontes Leal | João Vitor de Souza Paz |
+| Vitória Silva | Leonardo Holanda | Leomário Guedes do Nascimento |
+| Artur Florencio Cornacini | Gilberto Ribeiro Pinto Júnior | Pedro Luiz de Queiroz Martins |
+| Vinícius Cardoso Pereira da Silva |  |  |
 
 ### 🎓 Bolsistas — 1 membro
 
