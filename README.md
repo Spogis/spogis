@@ -2,7 +2,7 @@
 
 # 🏆 Apoiadores Oficiais — Titãs Casca Grossa Suprema
 
-![Membros](https://img.shields.io/badge/Membros_Ativos-82-22c55e?style=for-the-badge)
+![Membros](https://img.shields.io/badge/Membros_Ativos-83-22c55e?style=for-the-badge)
 ![Bolsistas](https://img.shields.io/badge/Bolsistas-1-f97316?style=for-the-badge)
 ![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)
 ![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)
@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 07/11/2026 | Total: **83** apoiadores
+> 📅 Atualizado em: 08/11/2026 | Total: **84** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -33,7 +33,7 @@
 | Daniel Wagner Oliveira de Medeiros | Fernando Fernandes Vieira  | Fernando Miguel de Amorim Lino |
 | Gabriel Luciano Borges de Carvalho |  |  |
 
-### 🚀 Super Longevity (24+ meses) — 24 membros
+### 🚀 Super Longevity (24+ meses) — 25 membros
 
 | | | |
 |---|---|---|
@@ -44,7 +44,8 @@
 | Luis Gustavo Assunção Carneiro | Marcos Guimarães Duarte Dias | Matheus Langendorf |
 | Moysés Naves de Moraes | Nathan Alves de Oliveira Framba | Nicholas Islongo Canabarro |
 | Pablo Jimenez Salces | Raniere Pereira de Paula | Rayan Lima Fernandes |
-| Vinícius Duarte Arrigoni | William Costa e Silva | Odnei Cesar Macalossi |
+| Rubens Henrique L. de Oliveira | Vinícius Duarte Arrigoni | William Costa e Silva |
+| Odnei Cesar Macalossi |  |  |
 
 ### 🥇 Ouro (12+ meses) — 28 membros
 
