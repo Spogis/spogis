@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 09/11/2026 | Total: **83** apoiadores
+> 📅 Atualizado em: 12/11/2026 | Total: **83** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -61,20 +61,20 @@
 | Mateus de Andrade Vasconcelos | Nathalia Wisniewski Siqueira | Sônia Kesserlingh |
 | Thiago da Silva Oliveira | Thiago Francisco Ferreira | Tiago Domingues Figueiredo |
 
-### 🥈 Prata (9+ meses) — 8 membros
+### 🥈 Prata (9+ meses) — 9 membros
 
 | | | |
 |---|---|---|
 | Ariel Toledo Goulart de Assis | Daniel Rodrigues de Oliveira da Costa | Franco Sciolla Ferrari |
 | Ícaro Vinícius de Souza Juvenal | João Paulo Martins Laudares dos Santos | João Rui Barbosa de Alencar |
-| Maria Eduarda Alves Barnabé | Tiago Silva Marques |  |
+| Maria Eduarda Alves Barnabé | Michelle Ayres de Campos Pinto | Tiago Silva Marques |
 
-### 🌟 Apoiador (6+ meses) — 5 membros
+### 🌟 Apoiador (6+ meses) — 4 membros
 
 | | | |
 |---|---|---|
-| Michelle Ayres de Campos Pinto | Matheus Luiz D Imperio Donini | Matheus Feliciano Barros Gomes |
-| Edilton Nunes da Silva | Admilson Lopes Vieira |  |
+| Matheus Luiz D Imperio Donini | Matheus Feliciano Barros Gomes | Edilton Nunes da Silva |
+| Admilson Lopes Vieira |  |  |
 
 ### 🔹 Novo apoiador — 13 membros
 
