@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 15/11/2026 | Total: **84** apoiadores
+> 📅 Atualizado em: 17/11/2026 | Total: **84** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -84,7 +84,7 @@
 | Gisele Garducci | Lucas Pontes Leal | João Vitor de Souza Paz |
 | Vitória Silva | Leonardo Holanda | Leomário Guedes do Nascimento |
 | Artur Florencio Cornacini | Gilberto Ribeiro Pinto Júnior | Pedro Luiz de Queiroz Martins |
-| Vinícius Cardoso Pereira da Silva | rita viana |  |
+| Vinícius Cardoso Pereira da Silva | Rita Viana |  |
 
 ### 🎓 Bolsistas — 1 membro
 
