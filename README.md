@@ -2,7 +2,7 @@
 
 # 🏆 Apoiadores Oficiais — Titãs Casca Grossa Suprema
 
-![Membros](https://img.shields.io/badge/Membros_Ativos-82-22c55e?style=for-the-badge)
+![Membros](https://img.shields.io/badge/Membros_Ativos-81-22c55e?style=for-the-badge)
 ![Bolsistas](https://img.shields.io/badge/Bolsistas-1-f97316?style=for-the-badge)
 ![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)
 ![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)
@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 18/11/2026 | Total: **83** apoiadores
+> 📅 Atualizado em: 23/11/2026 | Total: **82** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -33,19 +33,18 @@
 | Daniel Wagner Oliveira de Medeiros | Fernando Fernandes Vieira  | Fernando Miguel de Amorim Lino |
 | Gabriel Luciano Borges de Carvalho |  |  |
 
-### 🚀 Super Longevity (24+ meses) — 25 membros
+### 🚀 Super Longevity (24+ meses) — 24 membros
 
 | | | |
 |---|---|---|
 | Bruno Marcelo Corbalán Da Mota | Carlos Alexandre Moreira da Silva | Cláudia Ferreira da Silva Lirio |
-| Diener Volpin Ribeiro Fontoura | Diocleciano Januário | Dyenny Ellen Lima Lhamas  |
-| Eron Paulo Borges Filho | Fabiano Bisinella Scheufele | Hugo Valença |
-| Isabela Dalmolin Battistella | Isaias Surgek De Almeida  | Izabela Mendes Alves |
-| Luis Gustavo Assunção Carneiro | Marcos Guimarães Duarte Dias | Matheus Langendorf |
-| Moysés Naves de Moraes | Nathan Alves de Oliveira Framba | Nicholas Islongo Canabarro |
-| Pablo Jimenez Salces | Raniere Pereira de Paula | Rayan Lima Fernandes |
-| Rubens Henrique L. de Oliveira | Vinícius Duarte Arrigoni | William Costa e Silva |
-| Odnei Cesar Macalossi |  |  |
+| Diocleciano Januário | Dyenny Ellen Lima Lhamas  | Eron Paulo Borges Filho |
+| Fabiano Bisinella Scheufele | Hugo Valença | Isabela Dalmolin Battistella |
+| Isaias Surgek De Almeida  | Izabela Mendes Alves | Luis Gustavo Assunção Carneiro |
+| Marcos Guimarães Duarte Dias | Matheus Langendorf | Moysés Naves de Moraes |
+| Nathan Alves de Oliveira Framba | Nicholas Islongo Canabarro | Pablo Jimenez Salces |
+| Raniere Pereira de Paula | Rayan Lima Fernandes | Rubens Henrique L. de Oliveira |
+| Vinícius Duarte Arrigoni | William Costa e Silva | Odnei Cesar Macalossi |
 
 ### 🥇 Ouro (12+ meses) — 28 membros
 
@@ -70,21 +69,21 @@
 | João Paulo Martins Laudares dos Santos | João Rui Barbosa de Alencar | Maria Eduarda Alves Barnabé |
 | Michelle Ayres de Campos Pinto | Tiago Silva Marques |  |
 
-### 🌟 Apoiador (6+ meses) — 5 membros
+### 🌟 Apoiador (6+ meses) — 6 membros
 
 | | | |
 |---|---|---|
 | Matheus Luiz D Imperio Donini | Matheus Feliciano Barros Gomes | Edilton Nunes da Silva |
-| Admilson Lopes Vieira | Ângelo Lucas Silveira Castro |  |
+| Admilson Lopes Vieira | Ângelo Lucas Silveira Castro | Samuel |
 
-### 🔹 Novo apoiador — 12 membros
+### 🔹 Novo apoiador — 11 membros
 
 | | | |
 |---|---|---|
-| LV | Samuel | Gisele Garducci |
-| Lucas Pontes Leal | João Vitor de Souza Paz | Vitória Silva |
-| Leonardo Holanda | Artur Florencio Cornacini | Gilberto Ribeiro Pinto Júnior |
-| Pedro Luiz de Queiroz Martins | Vinícius Cardoso Pereira da Silva | Rita Viana |
+| LV | Gisele Garducci | Lucas Pontes Leal |
+| João Vitor de Souza Paz | Vitória Silva | Leonardo Holanda |
+| Artur Florencio Cornacini | Gilberto Ribeiro Pinto Júnior | Pedro Luiz de Queiroz Martins |
+| Vinícius Cardoso Pereira da Silva | Rita Viana |  |
 
 ### 🎓 Bolsistas — 1 membro
 
