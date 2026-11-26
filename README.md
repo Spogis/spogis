@@ -2,7 +2,7 @@
 
 # 🏆 Apoiadores Oficiais — Titãs Casca Grossa Suprema
 
-![Membros](https://img.shields.io/badge/Membros_Ativos-82-22c55e?style=for-the-badge)
+![Membros](https://img.shields.io/badge/Membros_Ativos-36-22c55e?style=for-the-badge)
 ![Bolsistas](https://img.shields.io/badge/Bolsistas-1-f97316?style=for-the-badge)
 ![Conteúdo](https://img.shields.io/badge/Conteúdo_Exclusivo-50%2B_horas-3b82f6?style=for-the-badge)
 ![Aulas](https://img.shields.io/badge/Aulas_ao_Vivo-Toda_Segunda-a855f7?style=for-the-badge)
@@ -24,7 +24,7 @@
 
 ## 🎖️ Hall dos Apoiadores
 
-> 📅 Atualizado em: 23/11/2026 | Total: **83** apoiadores
+> 📅 Atualizado em: 25/11/2026 | Total: **37** apoiadores
 
 ### 💎 Elite (36+ meses) — 4 membros
 
@@ -33,58 +33,37 @@
 | Daniel Wagner Oliveira de Medeiros | Fernando Fernandes Vieira  | Fernando Miguel de Amorim Lino |
 | Gabriel Luciano Borges de Carvalho |  |  |
 
-### 🚀 Super Longevity (24+ meses) — 25 membros
+### 🚀 Super Longevity (24+ meses) — 15 membros
 
 | | | |
 |---|---|---|
-| Bruno Marcelo Corbalán Da Mota | Carlos Alexandre Moreira da Silva | Cláudia Ferreira da Silva Lirio |
-| Diener Volpin Ribeiro Fontoura | Diocleciano Januário | Dyenny Ellen Lima Lhamas  |
-| Eron Paulo Borges Filho | Fabiano Bisinella Scheufele | Hugo Valença |
-| Isabela Dalmolin Battistella | Isaias Surgek De Almeida  | Izabela Mendes Alves |
-| Luis Gustavo Assunção Carneiro | Marcos Guimarães Duarte Dias | Matheus Langendorf |
-| Moysés Naves de Moraes | Nathan Alves de Oliveira Framba | Nicholas Islongo Canabarro |
-| Pablo Jimenez Salces | Raniere Pereira de Paula | Rayan Lima Fernandes |
-| Rubens Henrique L. de Oliveira | Vinícius Duarte Arrigoni | William Costa e Silva |
-| Odnei Cesar Macalossi |  |  |
+| Carlos Alexandre Moreira da Silva | Cláudia Ferreira da Silva Lirio | Dyenny Ellen Lima Lhamas  |
+| Eron Paulo Borges Filho | Fabiano Bisinella Scheufele | Luis Gustavo Assunção Carneiro |
+| Marcos Guimarães Duarte Dias | Matheus Langendorf | Moysés Naves de Moraes |
+| Nathan Alves de Oliveira Framba | Nicholas Islongo Canabarro | Raniere Pereira de Paula |
+| Rayan Lima Fernandes | Vinícius Duarte Arrigoni | William Costa e Silva |
 
-### 🥇 Ouro (12+ meses) — 28 membros
+### 🥇 Ouro (12+ meses) — 15 membros
 
 | | | |
 |---|---|---|
-| Alfredo Vitali | Anderson Luiz Pereira | Andy Avimael Saavedra Mendoza |
-| Carlos Rodrigues Paiva | Charles Dayan Farias de Jesus | Diego dos Santos Simão |
-| Franco Sciolla Ferrari | Frankhil Contreras Salgado | Gabriel Hernandez Rozo |
-| Gustavo dos Santos Cunha | Hubertt Kenned Elias Jr | João Lucas Lins Bomfim |
-| João Manoel Folador Rodriguez | José Antônio Marques  | Leví Pereira Quissola |
-| Lucas Rigolo Ortiz de Camargo  | Luellen Pereira Rocha | Luiz Augusto da Cruz Meleiro |
-| Luiz Guilherme Roquette Lopreato | Magnus Costa Miranda | Marcelo Dahan Gomes da Silva |
-| Marcos Vinícius Aquino Lopes | Mateus de Andrade Vasconcelos | Nathalia Wisniewski Siqueira |
-| Sônia Kesserlingh | Thiago da Silva Oliveira | Thiago Francisco Ferreira |
-| Tiago Domingues Figueiredo |  |  |
+| Alfredo Vitali | Anderson Luiz Pereira | Carlos Rodrigues Paiva |
+| Charles Dayan Farias de Jesus | Frankhil Contreras Salgado | Gustavo dos Santos Cunha |
+| Hubertt Kenned Elias Jr | João Manoel Folador Rodriguez | Lucas Rigolo Ortiz de Camargo  |
+| Luellen Pereira Rocha | Luiz Augusto da Cruz Meleiro | Luiz Guilherme Roquette Lopreato |
+| Nathalia Wisniewski Siqueira | Thiago da Silva Oliveira | Tiago Domingues Figueiredo |
 
-### 🥈 Prata (9+ meses) — 8 membros
+### 🥈 Prata (9+ meses) — 1 membro
 
 | | | |
 |---|---|---|
-| Ariel Toledo Goulart de Assis | Daniel Rodrigues de Oliveira da Costa | Ícaro Vinícius de Souza Juvenal |
-| João Paulo Martins Laudares dos Santos | João Rui Barbosa de Alencar | Maria Eduarda Alves Barnabé |
-| Michelle Ayres de Campos Pinto | Tiago Silva Marques |  |
+| João Rui Barbosa de Alencar |  |  |
 
-### 🌟 Apoiador (6+ meses) — 6 membros
+### 🌟 Apoiador (6+ meses) — 1 membro
 
 | | | |
 |---|---|---|
-| Matheus Luiz D Imperio Donini | Matheus Feliciano Barros Gomes | Edilton Nunes da Silva |
-| Admilson Lopes Vieira | Ângelo Lucas Silveira Castro | Samuel |
-
-### 🔹 Novo apoiador — 11 membros
-
-| | | |
-|---|---|---|
-| LV | Gisele Garducci | Lucas Pontes Leal |
-| João Vitor de Souza Paz | Vitória Silva | Leonardo Holanda |
-| Artur Florencio Cornacini | Gilberto Ribeiro Pinto Júnior | Pedro Luiz de Queiroz Martins |
-| Vinícius Cardoso Pereira da Silva | Rita Viana |  |
+| Ângelo Lucas Silveira Castro |  |  |
 
 ### 🎓 Bolsistas — 1 membro
 
